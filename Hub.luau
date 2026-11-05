@@ -1,2379 +1,2347 @@
 return (function(...)
-	local O = {
-			"CEc/kqPotjbDv",
-			"Cd7ef",
-			"|/>ZgZR-/,g",
-			"|osX#qo/",
-			"|/VSFtRYZl$806c)!7",
-			"CqgdSJni4jnoUjI61hA==",
-			"|^&fU1l3$;",
-			"CLFohGDoGoENXo/iLGe9N7LL=",
-			"|=*QEs",
-			"C7gDKjY==",
-			"CTrovqr8ph524TndU9n8Zub/Z9E25Jn3gTb/fjW==",
-			"C/g2fjcD5",
-			"|2;i)YlMF",
-			"ConkU9r8=",
-			"|2^%gn8pj%I8p7#3l.",
-			"CEr/KJba1TboEux2vLcD59W==",
-			"|Ri&fnp)o",
-			"|!bc%ZreFp",
-			"|2;%gF*.*bj=jV0AG8T@",
-			"|reFp",
-			"|*K*mVl&VNm=e7s",
-			"|/>Ch@l\"DEN8=Fl%aJT",
-			"Cu+==",
-			"|reF=MtHBNDlH",
-			"C/L3rqgDsTb/Z9W==",
-			"C/e/7/W==",
-			"Cuc2kjrivqg3ZjA==",
-			"|^8d!#",
-			"CubDvTW==",
-			"CYvj5JbF3",
-			"|r\'5#=/VS&+!Utae/*\\4",
-			"CTr/PjY==",
-			"Cog3ZjejUqPivYxkUucoCjsifJni4",
-			"CoP/Z",
-			"|=j@./oHOIhGLLQG=fsMKom3:2p>lR,l::thoDA]plN3d0p)\"TCpJ$S\\0#Ke8qfXhEll?o0p/?I+l6G[WGZ!qg0Q",
-			"|2,EgXolf7i",
-			"|*K\\TXoG2",
-			"|^?7lmaJ*d^reF=(=<2_",
-			"Cd7e=",
-			"|rj8.\'=<2V",
-			"CExaU9g/4",
-			"Cox/KqA==",
-			"CLzo5TbaP/gDf9bL=",
-			"|rfQEXp>lJ",
-			"C/xDU9ej1qsi6TbHs",
-			"|2^;*5oG2",
-			"Cug2UuPjU9c/fTbay",
-			"|*7jLtoa6g3lMb5q",
-			"|reFpO!nG_8p@%VJl[JOIp>J(Co^oRbaJ5=Bl3)8l*`)I6",
-			"C7c3PTroUugq=",
-			"|Q-!6#fRM%",
-			"|!3t!(oGi\'0",
-			"|!MP%1=O!TO",
-			"|^&7SJ0S3>",
-			"C7bL=",
-			"Cord3JbY=",
-			"CjxDKjY==",
-			"|!Utae/*\\+,*)(b^.g",
-			"CYg3PLg/s",
-			"ConkU9e9k9c/zJns=",
-			"|R%]jUp>aRF=F",
-			"|oa=*8",
-			"Cog3ZjejUqPivYxkUucY=",
-			"|*4)mg0S3d$0^<M,p@&9$GUf3*oG2",
-			"CYzd3Jno3LcD5Jb95JnN6",
-			"Coxk1qzY+ozdUunifjns=",
-			"|^?+ZU=e7s",
-			"Cog3fjLakubL=",
-			"|!6dsB^8d!#",
-			"|*4u>BY3",
-			"C7c2wJbHYucDajnG=",
-			"Cox3xjENIuziKTb8+ozdUunifjns=",
-			"|2Atb0p>lIY0A`",
-			"C7c2wTx/57zN3u+==",
-			"|^?KiZG;",
-			"|2;\')@pjEpZpt",
-			"|!Utae/*\\+,*(L\"^pt",
-			"CTc2KjY==",
-			"|*(LOkl6I*Np2X",
-			"|G&q*f=<5&",
-			"Cqg/xjnd4jY==",
-			"CEbaxTno3",
-			"CEx/aGDiaqzo3uY==",
-			"C9x25TziAJbi3",
-			"C7g/1u+==",
-			"C/DW+/cM+onkU9W==",
-			"|pWsaNG;",
-			"C",
-			"|/rp#92AtU",
-			"CLz/t9c3vucL=",
-			"CYx2ZqzokuPo4",
-			"Cog35j/i3qPj3q+==",
-			"CobakJgH3jW==",
-			"|rc#h>G&@#+",
-			"|!6r+9p>an1GUX#fl.",
-			"C7c2kjc3ZjFiFJPoU9cH3",
-			"Coc34JbdfjLdFTbHs/xD5ug3Zjz8=",
-			"|^8W%5pt",
-			"Cox/vYnovqg3t9no3",
-			"|2;ET$p>0",
-			"CJPs+uc/vTbFKu4Gx",
-			"|rj8=u_<",
-			"CYzd3Jno3/c2PjxH3",
-			"CTbaguA==",
-			"|0#te]oF1i/",
-			"ConkAuziFqg/IuxFAjba4JnoUuxS=",
-			"|!Utae/jhLCfIBR**%",
-			"CYx2Kun/ZTbik9c31u+==",
-			"CEc2KjY==",
-			"Coc34Jx25jW==",
-			"CELacELad/eL+Yv2d738=",
-			"|RnB=b",
-			"CYzd3Jno3Lx/w9c31u+==",
-			"|R%aQ<p>lG)=<60",
-			"|Rgq<180qn58p.[FauAgQh)n0\\fAs",
-			"C7zN3utNNucA+onkU9XW6Ys/LYEs=",
-			"|rOpE&G#",
-			"Cox3xjENYuxHvjndPjb349W==",
-			"|2;%gF*.*bj=jP",
-			"CnF2PJA==",
-			"C/c3vucL=",
-			"CYx2Zjg3P9ndk9c31u3ik9g3ZjA==",
-			"Conj3uPY=",
-			"|rj8.\'=<2j1=<BqC",
-			"CYzd3Jno3/cDt",
-			"C9baAJbiy",
-			"C/gDf9bL=",
-			"CEbFkjx/djW==",
-			"Cox3xjENbuxHsJnG=",
-			"CqxFUucL=",
-			"C7bDf9P/4",
-			"|rcA+",
-			"|r%X8O8p4;W*%",
-			"|2A9h(80u*[0R>",
-			"CYx2UuP8=",
-			"CEx3fuc/5",
-			"|!MI[SlY2]I/W\"G[G#",
-			"|*X:B:0RPacG;",
-			"CYx2Zug/w9W==",
-			"CnF2Uugo3OW==",
-			"|osXjEl.",
-			"C/e/7/XNLo/iLGDoDLFY=",
-			"C/g/w9c258+==",
-			"CYbawTc25jbY=",
-			"|Ds;8)osXV4pt",
-			"|^8WJUreFpO/>j)/!Utae^N:_H*RonV806m<2Et\'J8=s*e8pH:@/EWdr222",
-			"|//%^>8Gsh.0E=;C03",
-			"|RnB=dl:_",
-			"|_0`Eh",
-			"|?*",
-			"|2^EG6G;",
-			"C/g/5qx31utN7/ef=",
-			"|/$<5S",
-			"|/>ZgZ/>ChX",
-			"|K^u6>0#tE?^?;9$_)HXH0gZKXp$>5<pqDEL8l&Si=<YmT-?[Mt^ts\";oa&6iQ\'QV8Q\'Y^C=<\\>IGU;.Jp2>2m8D/e-GKQ8+80dgJoR]>PQ\'QV8QM_tc0![c]DF/oT^?;TgDF/oT",
-			"CEno3uY==",
-			"|!MP>5oG9",
-			"CEA==",
-			"CLcHkOb/5qA==",
-			"CTrovqr8ph525JnqZjx3vTr/t9ni3qgi1uPo3uPYZJx2Khv/sjx/dbE2UugjUug3vjn3UjbHshxFkqzo3qt24uz/5JxL=",
-			"CEr/t",
-			"|2A9h(80ntblq]gs_<",
-			"Cog2PLzokqPY=",
-			"|!6mVJ",
-			"CnF2fjbS=",
-			"CYg3ZJndaLzo5TbaP/gDf9bL=",
-			"Coc/49rd1OY==",
-			"|oTs_Rl\"C",
-			"|rj8GSp>lJ",
-			"|h9Fa\'pqO&/",
-			"|/>C[1l::3!_<",
-			"|*7*cLp@+@",
-			"CozdUunifjns=",
-			"CozdkJsK3OLj5uxF7Tno3",
-			"Cug/z",
-			"|2A9h(8ptrZ_]Yc",
-			"|*.*bj=jVp!p$O",
-			"C7g2vjY==",
-			"|2A9h(80nTFoTCg)G&>=EaJ2O",
-			"|*X)5Xpt",
-			"|/$<5SG#",
-			"|*7jLtoabb[oGl_D",
-			"|!MI3F=ON$Bp$B1[l3>r,pt",
-			"|anJ-k",
-			"CLFohGek/Y+==",
-			"|rV\".(oa64",
-			"ConkU9riCqc/Z",
-			"C9c249rdUugq=",
-			"CYz/5qg/Z9Djkur/3",
-			"|*4)m[anJ>L0!>j",
-			"|!:7Odp>lIY0A`",
-			"CobaFuY==",
-			"Cog2fjc/57gDKjY==",
-			"Ch+==",
-			"|reF=Mp>;KYl\"8k",
-			"CEbFkjx/Ejbiv7xjgqx/v",
-			"|0Ror",
-			"Coc34Jx2Zug/w9W==",
-			"|*4:4Do1<Y",
-			"|!Utaer-!+8qF",
-			"C7b2s9bH3qA==",
-			"CLzok9r8=",
-			"|*(L6M0d;&m",
-			"|2AK2_G8TnQ",
-			"|*72K1=OC/dG&>=EaJ2O",
-			"CEba49cDZJxL=",
-			"C/rdkjcDtucL=",
-			"|=j@./oHOIh=fsMKomU4fl3\\hB`KfWR=<BKi0VR?Z_X%e,oC*5Aok1joaJ2K#p>:\'00^.N\\o`\\qa_p1f/0RSKqoF[*VomX",
-			"CLx/vYnovqg3t9no3",
-			"|^aW[K0R(NFl::A",
-			"Cqc/5qx2ZhnivJbasTbaP",
-			"CYPdUJxKIuxH1q+==",
-			"|/@A9:pt",
-			"|a%^F9p>=pe=<5mkpt",
-			"CEno3uLok9cDtJni3qA==",
+	local Q = {
+			"sH`ZEYM_&HN#N",
+			"z8Tfi8TfJ9yTox1FJbPC=",
+			"sq,qCh&%\'2X;LV",
+			"s8:`\'Kd($B$",
+			"zH392",
+			"sHpl@J",
+			"zxhrQ5iJSzhQ=",
+			"zTh91xWH1lMPUZWHP",
+			"z9GJBshZPlo==",
+			"snE+,h#58ETdTL>Rd;V-",
+			"sqOHIpM7f",
+			"s\'IkQS",
+			"zThS/ZOHPuGx=",
+			"zbiFcqh90bmNP5o==",
+			"sl_KJK",
+			"zlM9aZAP0sx==",
+			"z8AfhqWHP",
+			"zT392Th90ZMPcsx==",
+			"z9TPGlMrjqA92Ze==",
+			"z9GJSsirU5iT=",
+			"z9reo9igoHWSBZe==",
+			"zHGJPzAx=",
+			"zHhPhs8NA5hajzWI=",
+			"sHJk5Q+3ki6+M,!N&-.J^g9i34$.(",
+			"zWOFQsAR=",
+			"snh6:#lVXSUPY>&ulq4a",
+			"zshr+sx==",
+			"zTiaSuA90l6==",
+			"z5o==",
+			"zZir4q6==",
+			"s80[9\'d&#rr",
+			"zzhF+lG91sWI=",
+			"zHAfSzMaPse==",
+			"zxmJPzWHPTh9cZiP/5o==",
+			"s^Y",
+			"z5iFSsGE1lMP2s6==",
+			"s#E4\"@",
+			"snuNMfPiBt+Mj`V<;!<feM_<mod\'dHC&<6#W;L9+;qO9e/",
+			"z8AOSsh98sAE1bhsMlh91",
+			"zH39Q5yJ0qAZYZe==",
+			"z8G9U",
+			"sqAE\">d&/B`#u5\\5",
+			"sHpK,!",
+			"s\'SqPs#535rPY>#",
+			"sd(]Er;,",
+			"z8h9fTmP4Zi9+",
+			"z9MFQsir0",
+			"sMc(&IB0",
+			"zqAfM56==",
+			"s8PCqS",
+			"s;%W*",
+			"zHMP2sysBl3E1xhSB5ix=",
+			"s\'IkQS+#pCG\'\\$G^PYB",
+			"zHiP4zAJQs9JSuAsBsAajTGJ/5WN1l6==",
+			"zH3JS5A9TqAOP",
+			"zlMJRzWE4sWHBsDY/X6==",
+			"zHhS/lmxoHmJB5WEQsWj=",
+			"zKp9jJAxPspj=",
+			"sll`\'_+B(g,3r#0o3L",
+			"zHh9+l6==",
+			"z8WHP5TP2sMg=",
+			"slj.sbM>",
+			"zxhF2lmHS53H4",
+			"sHiW#C",
+			"sd(O0gM>",
+			"zqG93sx==",
+			"sP/TV<",
+			"s8.sgm+3iDNdDoJ9BS_#r&<8f",
+			"zHWSBZGE7li92",
+			"sn$K>/M_%",
+			"sPL5t`B:",
+			"sRq",
+			"zlM9hsWJ4sx==",
+			"zxmJPzWHPx391ZiF2",
+			"zqGH1lGCtX0F0zWl2shP1qG9UZWEPlME/53HP53x2zhF+X19jsh9JA8FB5MsB5MP1sWPBsAajXhOSlmHPlUF45m90zhT=",
+			"zHh91xWH1lMPUZWHP",
+			"slnM:s8.>Y",
+			"zTm9UZiP15iT=",
+			"zli90lhF2XWE1zAfjqAf3",
+			"zHWSBZpNw5mxobmNP5o==",
+			"z8i9Sl3HUsAr1",
+			"s&`\'NsM_#Mu#56T*M>",
+			"sl_KJKHpl@J",
+			"sP%eLN#fI7WM7WQ!;L_n@M>",
+			"sdD(tH;=o",
+			"z9M9cZiF0C6==",
+			"zxhSSlMrcZi90",
+			"sl_o!Q;bbLPt5",
+			"z8hPQ5i90",
+			"snuNMfPiBt+Mj<",
+			"z8AfMqAfBZiToAAPP5ix=",
+			"zHhPhs8ND5mE+qACoHmJB5WEQsWj=",
+			"sqa-_WGL",
+			"s8\'0q6dB8",
+			"zxmJPzWHP9irU",
+			"sdN(^R3.U",
+			"zTmNPzmH0ZA1=",
+			"snfMrSB:",
+			"zTiFQZi90sh9Blmx=",
+			"zHWsP53x=",
+			"zZiF4ZGJB5Ml=",
+			"s\'\"LL/M>",
+			"zTOHXIyS9xUNyx9HNW6==",
+			"snE+BXM_;<",
+			"slj.sbMV\\;",
+			"z8h9f",
+			"zxAfcqiF0sAx=",
+			"s8.sgm+3i>C;kZJ(t5",
+			"z9i9RZe==",
+			"zbAFjZAaPl6==",
+			"sq\\qTV;SVIT#uA(",
+			"zbmNP5UNN5i6oHWSBZpeYxj9Tx8j=",
+			"s80rD7M_&Fj;GJ",
+			"s8XEsjP/nUsM_3",
+			"z9hF0qmE6zAEP",
+			"zJby=",
+			"z9iP+sWI=",
+			"zxmJPzWHP9hP2siFm",
+			"zHi94ZGJ/ux==",
+			"zZhrBZe==",
+			"zx3JBshS1IGJPse==",
+			"zThrhsT+Pux==",
+			"sqAq?6M7LL",
+			"zbAr6",
+			"sR:\\.",
+			"zx1s0zAOP",
+			"s\'SAX<3XL_",
+			"sq]96]M>",
+			"s\'&c!\\3HmIN;bb.",
+			"z5Ar1qe==",
+			"zHMFQsi90",
+			"s8:`\\%nuN#\'BY$/W#5sW",
+			"z9iSPIy+Pu8NJl4YoTOHXIrHIH8NpH9ETIyZNbTTo5mIoTOHXIyPbIySNx1+rHe==",
+			"sn$^r]M_;<",
+			"sP%F`Q#fPDf",
+			"zHhPhs8NEzAahZWC=",
+			"zTOHXIrHIH8NpH9ETIyZNbTT=",
+			"sqm\"f*;/eqIM8]",
+			"zqGH1lGCtX0F3qWHYZAI2zhF+X1rqAWEGqWHYZAI/Hi9RTiaOlONQZWC/lM9QsAr4sWC/5ir1sWE1XhH/ZhfQ5hrjXhFOZpfQZAy=",
+			"z8h9fTh91ZiP2smC=",
+			"sn(",
+			"s^pP/:$H%`",
+			"s8\'`Ji8.\\-Jt3O\"",
+			"sl756XB:",
+			"s\'R\\t?M>",
+			"sln=Ym;=eq*Pb\\=.HiW#C",
+			"z",
+			"zxWE4sWH4",
+			"s8\'`Y`dD[h8qAqiKMjUEad;$A[",
+			"zTOHXIyS9xUNDzAEYsx==",
+			"sqAq6XB:",
+			"zHMF3HAfj",
+			"s8.>C3M_;eG3.O",
+			"sqa9TV;Lk>I3:.",
+			"zTOHXIyPbIySNx1+rHe==",
+			"s80`JNq,qCE#EV3.B+Dj",
+			"s8.sgm+MYUsd&LbDMj>ug",
+			"zHhPhs8NylM9Sse==",
+			"zbiFczAax5irfsWI=",
+			"s\'S$YQ;L7_",
+			"zWOF3z6==",
+			"zz3jo5i91qAO+54Ih",
+			"zHG90zWHB5hR=",
+			"s#Ej,ld2fegdIcA^dN_kVMjU0;B\"\"qD#fPDf",
+			"snV=gEd;$0D",
+			"sqAE\">d&/n0B\"N1\\3Pc5",
+			"sHiW#1;bt",
+			"snf)",
+			"s8XE\"J8XEs\"d3kQ1&<g)7q]9pVB:",
+			"z8iF+sx==",
+			"s8XE6hHpl@J",
+			"sn?.?!dN7",
+			"s)IRLS80r\'8#V;nW",
+			"z8WHP5THSZirUzWEPl6==",
+			"sn`]+f+Ma0cq`",
+			"sn?:g_BSj:U",
+			"sH[S$Y",
+			"z9iF3shaP9TPXsWPUqAfj",
+			"zTOHXIyS9xo==",
+			"snE+#-t5",
+			"z8Af4Zir2zhT=",
+			"zWOFB5MHPue==",
+			"sqOH)tBCH_DBS_BI\'\"LL/M>",
+			"zZhF0qmE6zAEP",
+			"sqAqi]dNIcZ3\',u4;,",
+			"slVXN>HGK;7+3/?9PA",
+			"zTmH0qAf39MrQZAT=",
+			"sqA8\\Q#fol1BS_#r&<8f",
+			"sP/nUsM_&iQBY]:$;,",
+			"zHhr+sWNSlmC=",
+			"sqa9TJ3XL1#dQVAo)IgR/#587(",
+			"s\\\'-/_3:>rR\'R0s7t92]23JK\\]M7_65Mk)r\"+;SX[#5GTDpR!%>\'>(=0d&S/[^h^V+^h^V+^h^V+^h^V+^h^F!n$^r]M_;`8q*dhPMk\'rM\'RNeA;!<=W#5?Kq^h^V+^h^V+^h^V+^h^V+^h^F!\'+c!m&BESUd0\"]4\\un9jd0T",
+			"zlmNQqWx=",
+			"zbiP+qWHPse==",
+			"zbiFSsiP2sOHBZiaP",
+			"z5MFB53sBZi9QqAfL",
+			"zzAJ4",
+			"zHWJ05mI=",
+			"sqAq?j#fh7^3\',u4;tea/#58V",
+			"zbiFSsiP2s6==",
+			"sP%F_6dBs",
+			"zxm90lM92ZrsS5G9P",
+			"zHWSBZGC=",
+			"zsmEOzo==",
+			"z8AE/5o==",
+			"zqGH1lGCtX0F0zWl2shP1qG9UZWEPlME/53HP53x2zhF+XhP2s3PBsMz/zMrcqm96XhOSqAR/zW9jqAFQ5hZ3sWI25G9S",
+			"s&i<p*",
+			"zHiP4zhF0se==",
+			"zTM9+sAOUsWJK5hP2l6==",
+			"zbMF1qAsf",
+			"zHiP4liaSuTfS5AT=",
+			"sqaba)dQ5G",
+			"sqAq?\"MjUj",
+			"z9iSP5AT=",
+			"sPY>&unpPU+kN",
 		};
-	for s, k in ipairs({ { 1, 215 }, { 1, 10 }, { 11, 215 } }) do
-		while k[1] < k[2] do
-			O[k[1]], O[k[2]], k[1], k[2] = O[k[2]], O[k[1]], k[1] + 1, k[2] - 1;
+	local function h(h)
+		return Q[h + 63304];
+	end;
+	for h, C in ipairs({ { 1, 215 }, { 1, 119 }, { 120, 215 } }) do
+		while C[1] < C[2] do
+			Q[C[1]], Q[C[2]], C[1], C[2] = Q[C[2]], Q[C[1]], C[1] + 1, C[2] - 1;
 		end;
 	end;
-	local function s(s)
-		return O[s + 60637];
-	end;
 	do
-		local s = O;
-		local k = string.char;
-		local w = math.floor;
-		local e = {
-				v = 52,
-				["2"] = 61,
-				i = 13,
-				m = 42,
-				O = 30,
-				X = 2,
-				M = 60,
-				a = 57,
-				D = 5,
-				Y = 16,
-				K = 45,
-				g = 38,
-				["9"] = 29,
-				B = 31,
-				s = 36,
-				V = 62,
-				["5"] = 50,
-				l = 10,
-				S = 56,
-				["6"] = 40,
-				b = 22,
-				z = 55,
-				["/"] = 21,
-				G = 8,
-				F = 53,
-				T = 26,
-				Z = 46,
-				q = 28,
-				j = 25,
-				J = 24,
-				Q = 14,
-				["0"] = 59,
-				["8"] = 12,
-				h = 11,
-				p = 58,
-				N = 1,
-				H = 49,
-				R = 63,
-				U = 41,
-				x = 54,
-				o = 17,
-				r = 7,
-				C = 15,
-				d = 9,
-				u = 27,
-				t = 34,
-				c = 6,
-				I = 3,
-				E = 18,
-				w = 35,
-				P = 39,
-				["3"] = 37,
-				L = 20,
-				W = 0,
-				["7"] = 19,
-				["1"] = 47,
-				["4"] = 51,
-				e = 4,
-				n = 23,
-				["+"] = 32,
-				f = 44,
-				k = 33,
-				A = 48,
-				y = 43,
-			};
-		local R = string.len;
-		local o = table.insert;
-		local F = type;
-		local i = string.sub;
-		local T = {
-				p = 32,
-				J = 71,
-				["@"] = 50,
-				E = 18,
-				["\\"] = 4,
-				["1"] = 62,
-				["2"] = 22,
-				L = 64,
-				["7"] = 57,
-				["6"] = 68,
-				["9"] = 76,
-				[">"] = 51,
-				[";"] = 54,
-				F = 63,
-				["^"] = 27,
-				a = 34,
-				t = 39,
-				R = 25,
-				["["] = 60,
-				X = 56,
-				U = 66,
-				_ = 38,
-				D = 28,
-				["("] = 55,
-				["!"] = 26,
-				["-"] = 16,
-				["&"] = 65,
-				h = 12,
-				["`"] = 29,
-				Y = 13,
-				["%"] = 72,
-				A = 80,
-				B = 77,
-				W = 78,
-				["="] = 33,
-				G = 36,
-				i = 17,
-				["\""] = 41,
-				s = 8,
-				e = 19,
-				d = 52,
-				c = 73,
-				["8"] = 10,
-				r = 24,
+		local h = {
+				t = 38,
+				["="] = 41,
+				l = 23,
+				[";"] = 35,
+				S = 65,
+				["["] = 17,
+				X = 53,
+				R = 11,
+				I = 7,
+				_ = 51,
+				e = 82,
+				i = 70,
+				[">"] = 39,
+				[","] = 30,
+				C = 67,
+				["<"] = 71,
+				["5"] = 75,
+				["2"] = 2,
+				["\'"] = 27,
+				q = 21,
+				a = 83,
+				N = 63,
+				["0"] = 54,
+				Q = 62,
+				["^"] = 14,
+				k = 15,
+				B = 36,
+				j = 50,
+				U = 84,
+				["@"] = 0,
+				J = 45,
+				["?"] = 73,
+				E = 48,
+				H = 25,
+				["&"] = 34,
+				["\""] = 64,
+				P = 26,
+				[":"] = 81,
+				["\\"] = 3,
+				W = 77,
+				A = 57,
+				p = 16,
 				V = 47,
-				u = 43,
-				g = 45,
-				k = 1,
-				j = 48,
-				["/"] = 23,
-				f = 20,
-				S = 53,
-				["<"] = 75,
-				["$"] = 49,
-				Z = 59,
-				["#"] = 81,
-				M = 40,
-				["*"] = 21,
-				["3"] = 69,
-				K = 3,
-				[")"] = 79,
-				["\'"] = 44,
-				["0"] = 31,
-				b = 67,
-				O = 74,
-				P = 46,
-				m = 61,
-				Q = 14,
-				[","] = 0,
-				["."] = 30,
-				["+"] = 84,
-				T = 9,
-				H = 2,
-				["]"] = 6,
-				o = 37,
-				["5"] = 58,
-				n = 70,
-				[":"] = 42,
-				I = 82,
-				C = 5,
-				l = 35,
-				N = 7,
-				q = 15,
-				["?"] = 11,
-				["4"] = 83,
+				["("] = 8,
+				r = 18,
+				T = 61,
+				M = 32,
+				L = 69,
+				o = 5,
+				["7"] = 49,
+				O = 29,
+				K = 59,
+				D = 9,
+				s = 76,
+				["-"] = 43,
+				["4"] = 4,
+				b = 42,
+				["+"] = 10,
+				Y = 66,
+				h = 44,
+				[")"] = 28,
+				["8"] = 22,
+				["%"] = 40,
+				Z = 6,
+				g = 12,
+				["*"] = 1,
+				m = 55,
+				["1"] = 52,
+				["6"] = 58,
+				["`"] = 72,
+				c = 78,
+				["/"] = 68,
+				d = 37,
+				["]"] = 56,
+				["#"] = 33,
+				["$"] = 20,
+				G = 13,
+				f = 74,
+				["!"] = 60,
+				F = 46,
+				["."] = 80,
+				["3"] = 31,
+				n = 24,
+				u = 19,
+				["9"] = 79,
 			};
-		local b = table.concat;
-		for O = 1, #s, 1 do
-			local C = s[O];
-			if F(C) == "string" then
-				local F = i(C, 1, 1);
-				if F == "C" then
-					C = i(C, 2);
-					local F = R(C);
-					local T = {};
-					local U = 1;
-					local p = 0;
-					local D = 0;
-					while U <= F do
-						local O = i(C, U, U);
-						local s = e[O];
-						if s then
-							p = p + s * (64 ^ ((3 - D)));
-							D = D + 1;
-							if D == 4 then
-								D = 0;
-								local O = w(p / 65536);
-								local s = w((p % 65536) / 256);
-								local e = p % 256;
-								o(T, k(O, s, e));
-								p = 0;
+		local C = type;
+		local k = table.concat;
+		local f = Q;
+		local H = {
+				n = 62,
+				["+"] = 45,
+				L = 43,
+				s = 25,
+				C = 12,
+				F = 61,
+				b = 19,
+				o = 32,
+				O = 53,
+				N = 1,
+				P = 37,
+				z = 24,
+				e = 0,
+				r = 5,
+				D = 3,
+				["8"] = 18,
+				p = 2,
+				H = 17,
+				g = 60,
+				["0"] = 50,
+				d = 31,
+				Z = 29,
+				A = 22,
+				Y = 40,
+				B = 41,
+				f = 57,
+				k = 63,
+				G = 7,
+				["/"] = 47,
+				x = 16,
+				c = 35,
+				["5"] = 27,
+				W = 23,
+				a = 49,
+				["3"] = 39,
+				T = 20,
+				R = 56,
+				["9"] = 21,
+				v = 42,
+				X = 11,
+				U = 34,
+				Q = 44,
+				i = 6,
+				["1"] = 52,
+				["7"] = 15,
+				J = 9,
+				I = 8,
+				K = 10,
+				["4"] = 51,
+				q = 26,
+				["6"] = 48,
+				h = 54,
+				u = 30,
+				j = 36,
+				["2"] = 46,
+				m = 55,
+				S = 33,
+				l = 28,
+				t = 58,
+				V = 59,
+				M = 38,
+				w = 14,
+				E = 13,
+				y = 4,
+			};
+		local Y = math.floor;
+		local K = string.char;
+		local X = string.sub;
+		local s = table.insert;
+		local v = string.len;
+		for Q = 1, #f, 1 do
+			local g = f[Q];
+			if C(g) == "string" then
+				local C = X(g, 1, 1);
+				if C == "z" then
+					g = X(g, 2);
+					local h = v(g);
+					local C = {};
+					local M = 1;
+					local N = 0;
+					local F = 0;
+					while M <= h do
+						local Q = X(g, M, M);
+						local k = H[Q];
+						if k then
+							N = N + k * (64 ^ ((3 - F)));
+							F = F + 1;
+							if F == 4 then
+								F = 0;
+								local Q = Y(N / 65536);
+								local h = Y((N % 65536) / 256);
+								local k = N % 256;
+								s(C, K(Q, h, k));
+								N = 0;
 							end;
-						elseif O == "=" then
-							o(T, k(w(p / 65536)));
-							if U >= F or i(C, U + 1, U + 1) ~= "=" then
-								o(T, k(w((p % 65536) / 256)));
+						elseif Q == "=" then
+							s(C, K(Y(N / 65536)));
+							if M >= h or X(g, M + 1, M + 1) ~= "=" then
+								s(C, K(Y((N % 65536) / 256)));
 							end;
 							break;
 						end;
-						U = U + 1;
+						M = M + 1;
 					end;
-					s[O] = b(T);
-				elseif F == "|" then
-					C = i(C, 2);
-					local e = R(C);
-					local F = {};
-					local U = 1;
-					while U <= e do
-						local O = (e - U) + 1;
-						local s = O >= 5 and 5 or O;
-						local R = 0;
-						local b = s > 1;
-						for O = 0, 4, 1 do
-							local k;
-							if O < s then
-								local s = i(C, U + O, U + O);
-								k = T[s];
-								if not k then
-									b = false;
+					f[Q] = k(C);
+				elseif C == "s" then
+					g = X(g, 2);
+					local C = v(g);
+					local H = {};
+					local M = 1;
+					while M <= C do
+						local Q = (C - M) + 1;
+						local k = Q >= 5 and 5 or Q;
+						local f = 0;
+						local v = k > 1;
+						for Q = 0, 4, 1 do
+							local C;
+							if Q < k then
+								local k = X(g, M + Q, M + Q);
+								C = h[k];
+								if not C then
+									v = false;
 									break;
 								end;
 							else
-								k = 84;
+								C = 84;
 							end;
-							R = R * 85 + k;
+							f = f * 85 + C;
 						end;
-						if b then
-							local O = w(R / 16777216) % 256;
-							local e = w(R / 65536) % 256;
-							local i = w(R / 256) % 256;
-							local T = R % 256;
-							if s == 5 then
-								o(F, k(O, e, i, T));
-							elseif s == 4 then
-								o(F, k(O, e, i));
-							elseif s == 3 then
-								o(F, k(O, e));
-							elseif s == 2 then
-								o(F, k(O));
+						if v then
+							local Q = Y(f / 16777216) % 256;
+							local h = Y(f / 65536) % 256;
+							local C = Y(f / 256) % 256;
+							local X = f % 256;
+							if k == 5 then
+								s(H, K(Q, h, C, X));
+							elseif k == 4 then
+								s(H, K(Q, h, C));
+							elseif k == 3 then
+								s(H, K(Q, h));
+							elseif k == 2 then
+								s(H, K(Q));
 							end;
 						end;
-						U = U + s;
+						M = M + k;
 					end;
-					s[O] = b(F);
+					f[Q] = k(H);
 				end;
 			end;
 		end;
 	end;
-	local k = {
-			s(-60513),
-			s(-60468),
-			s(-60440),
-			s(-60452),
-			s(-60442),
-			s(-60547),
-			s(-60617),
-			s(-60533),
-			s(-60478),
-			s(-60423),
-			s(-60538),
-			s(-60633),
-			s(-60575),
-			s(-60618),
-			s(-60573),
-			s(-60601),
-			s(-60621),
-			s(-60610),
-			s(-60454),
-			s(-60466),
-			s(-60507),
-			s(-60604),
-			s(-60636),
-			s(-60543),
-			s(-60600),
-			s(-60561),
-			s(-60614),
-			s(-60425),
-			s(-60496),
-			s(-60446),
-			s(-60433),
-			s(-60571),
-			s(-60528),
-			s(-60439),
-			s(-60577),
-			s(-60564),
-			s(-60521),
-			s(-60560),
-			s(-60550),
-			s(-60462),
-			s(-60595),
-			s(-60473),
-			s(-60597),
-			s(-60551),
-			s(-60591),
-			s(-60598),
-			s(-60470),
-			s(-60554),
-			s(-60559),
-			s(-60582),
-			s(-60464),
-			s(-60593),
-			s(-60539),
-			s(-60500),
-			s(-60487),
-			s(-60518),
-			s(-60629),
-			s(-60615),
-			s(-60475),
-			s(-60422),
-			s(-60477),
-			s(-60534),
-			s(-60424),
-			s(-60514),
-			s(-60506),
-			s(-60499),
-			s(-60583),
-			s(-60502),
-			s(-60479),
-			s(-60445),
-			s(-60455),
-			s(-60504),
-			s(-60495),
-			s(-60630),
-			s(-60546),
-			s(-60570),
-			s(-60460),
+	local C = {
+			h(-63108),
+			h(-63299),
+			h(-63123),
+			h(-63187),
+			h(-63303),
+			h(-63128),
+			h(-63298),
+			h(-63180),
+			h(-63134),
+			h(-63255),
+			h(-63129),
+			h(-63224),
+			h(-63152),
+			h(-63158),
+			h(-63280),
+			h(-63113),
+			h(-63276),
+			h(-63237),
+			h(-63233),
+			h(-63199),
+			h(-63178),
+			h(-63248),
+			h(-63119),
+			h(-63281),
+			h(-63169),
+			h(-63163),
+			h(-63256),
+			h(-63173),
+			h(-63157),
+			h(-63247),
+			h(-63221),
+			h(-63216),
+			h(-63144),
+			h(-63179),
+			h(-63230),
+			h(-63111),
+			h(-63219),
+			h(-63274),
+			h(-63160),
+			h(-63251),
+			h(-63116),
+			h(-63141),
+			h(-63250),
+			h(-63227),
+			h(-63239),
+			h(-63124),
+			h(-63301),
+			h(-63235),
+			h(-63229),
+			h(-63253),
+			h(-63130),
+			h(-63273),
+			h(-63218),
+			h(-63177),
+			h(-63090),
+			h(-63228),
+			h(-63190),
+			h(-63196),
+			h(-63182),
+			h(-63295),
+			h(-63300),
+			h(-63109),
+			h(-63112),
+			h(-63114),
+			h(-63270),
+			h(-63133),
+			h(-63210),
+			h(-63151),
+			h(-63212),
+			h(-63176),
+			h(-63150),
+			h(-63154),
+			h(-63181),
+			h(-63266),
+			h(-63149),
+			h(-63138),
+			h(-63156),
 		};
-	return (function(O, w, e, R, o, F, i, T, b, C, U, p, D, v, K, Y, E, H, M, g, J, X, L, P, r, c, f, V, q, Q, G)
-		L, r, D, H, J, V, v, G, X, K, M, Q, c, Y, P, q, f, E, g, p = function(O, s, w)
-				local e = D(s);
-				local o = function(R, o, F)
-						return P(O, {
-							R,
-							o,
-							F,
-							[k[22]] = 3,
-						}, s, e, U and U(1) or w);
+	return (function(Q, k, f, H, Y, K, X, s, v, g, M, N, F, P, b, w, y, u, z, I, O, A, D, q, J, B, S, x, G, T)
+		G, F, P, B, u, I, S, q, J, D, w, x, N, b, z, O, A, T, y = function(...)
+				return { [C[77]] = v(C[16], ...), ... };
+			end, function(Q, h, k)
+				local f = B(h);
+				local H = function(H, Y, K, X, s, v)
+						return S(Q, {
+							H,
+							Y,
+							K,
+							X,
+							s,
+							v,
+							[C[77]] = 6,
+						}, h, f, g and g(1) or k);
 					end;
-				if R then
-					R(o, w);
+				if Y then
+					Y(H, k);
 				end;
-				return o;
-			end, function(O, s, w)
-				local e = D(s);
-				local o = function(R, o, F, i, T)
-						return P(O, {
-							R,
-							o,
-							F,
-							i,
-							T,
-							[k[22]] = 5,
-						}, s, e, U and U(1) or w);
+				return H;
+			end, function(Q, h, k)
+				local f = B(h);
+				local H = function(H, Y)
+						return S(Q, { H, Y, [C[77]] = 2 }, h, f, g and g(1) or k);
 					end;
-				if R then
-					R(o, w);
+				if Y then
+					Y(H, k);
 				end;
-				return o;
-			end, function(O)
-				for s = 1, #O, 1 do
-					Y[O[s]] = Y[O[s]] + 1;
+				return H;
+			end, function(Q)
+				for h = 1, #Q, 1 do
+					w[Q[h]] = w[Q[h]] + 1;
 				end;
-				if e then
-					local s = e(true);
-					local w = C(s);
-					w[k[55]], w[k[21]], w[k[40]] = O, p, function()
-							return 1471057;
+				if f then
+					local h = f(true);
+					local k = K(h);
+					k[C[53]], k[C[45]], k[C[39]] = Q, q, function()
+							return -2535682;
 						end;
-					return s;
+					return h;
 				else
-					return F({}, { [k[21]] = p, [k[55]] = O, [k[40]] = function()
-							return 1471057;
+					return s({}, { [C[45]] = q, [C[53]] = Q, [C[39]] = function()
+							return -2535682;
 						end });
 				end;
-			end, function(O, s, w)
-				local e = D(s);
-				local o = function()
-						return P(O, { [k[22]] = 0 }, s, e, U and U(1) or w);
+			end, function(Q, h, ...)
+				if g and Q == g then
+					local Q = ...;
+					if Q == nil or Q == 1 then
+						return h;
 					end;
-				if R then
-					R(o, w);
 				end;
-				return o;
-			end, function(O, s, k)
-				local w = D(s);
-				local e = function(...)
-						return P(O, G(...), s, w, U and U(1) or k);
-					end;
-				if R then
-					R(e, k);
-				end;
-				return e;
-			end, 0, function(O, s, w)
-				local e = D(s);
-				local o = function(R)
-						return P(O, { R, [k[22]] = 1 }, s, e, U and U(1) or w);
-					end;
-				if R then
-					R(o, w);
-				end;
-				return o;
-			end, function(...)
-				return { [k[22]] = b(k[61], ...), ... };
-			end, function(O, s, w)
-				local e = D(s);
-				local o = function(R, o, F, i)
-						return P(O, {
-							R,
-							o,
-							F,
-							i,
-							[k[22]] = 4,
-						}, s, e, U and U(1) or w);
-					end;
-				if R then
-					R(o, w);
-				end;
-				return o;
-			end, function(O, s, w)
-				local e = D(s);
-				local o = function(R, o)
-						return P(O, { R, o, [k[22]] = 2 }, s, e, U and U(1) or w);
-					end;
-				if R then
-					R(o, w);
-				end;
-				return o;
-			end, function(O)
-				Y[O] = Y[O] - 1;
-				if Y[O] == 0 then
-					Y[O], c[O] = nil, nil;
-				end;
-			end, function(O, s, w)
-				local e = D(s);
-				local o = function(R, o, F, i, T, b, C)
-						return P(O, {
-							R,
-							o,
-							F,
-							i,
-							T,
-							b,
-							C,
-							[k[22]] = 7,
-						}, s, e, U and U(1) or w);
-					end;
-				if R then
-					R(o, w);
-				end;
-				return o;
-			end, {}, {}, function(O, w, e, R, o)
-				local F, i, T, C, U, p, D, Y, P, V, u, h, l, m, z, n, x, d, S, j, t, W, N, B, A, I, Z, y, a, OE, sE, kE, wE, eE, RE, oE, FE, iE, TE, bE, CE, UE, pE, DE, vE, KE, YE, EE, HE, ME, gE, JE, XE, LE, PE;
-				while O do
-					if O < 7466766.0 then
-						if 3266129.5 > O then
-							if 1206387.5 > O then
-								if O < 628560.5 then
-									if 205315.5 > O then
-										YE = c[i];
-										u, sE = k[39], k[50];
-										sE = YE[sE];
-										sE = q(sE, o, YE, u);
-										YE, u = nil, nil;
-										c[y] = sE;
-										sE = nil;
-										O = 7589360;
-									elseif 228763.0 > O then
-										O = nil;
-										Z = G();
-									elseif O < 403303.0 then
-										UE = c[e[1]];
-										i = k[60];
-										p = c[e[2]];
-										vE = p[i];
-										p, i = nil, nil;
-										p = k[7];
-										C = vE[p];
-										vE, p = nil, nil;
-										OE = c[e[2]];
-										p, P = k[17], k[60];
-										kE = OE[P];
-										OE, P = nil, nil;
-										OE = k[66];
-										i = kE[OE];
-										kE, OE = nil, nil;
-										vE = p .. i;
-										i, p = nil, nil;
-										p = k[13];
-										j = q(UE, o, C, vE, p);
-										UE, C, vE, p = nil, nil, nil, nil;
-										j = nil;
-										j = nil;
-										O = nil;
-										Z = G();
+				return Q(...);
+			end, {}, function(Q, k, f, H, Y)
+				local K, X, s, g, M, w, y, q, B, S, Z, a, V, U, E, l, n, R, c, d, j, t, r, L, o, W, p, m, e, i, Q7, h7, C7, k7, f7, H7, Y7, K7, X7, s7, v7, g7, M7, N7, F7, P7, b7, w7, y7, u7, z7, I7, O7, A7, D7;
+				while Q do
+					if 8242208.5 > Q then
+						if 4282417.0 > Q then
+							if Q < 1824589.5 then
+								if 966960.0 > Q then
+									if Q < 333959.0 then
+										M, Y7 = C[42], C[66];
+										a = I[f[1]];
+										Y7 = a[Y7];
+										Y7 = u(Y7, Y, a, M);
+										a, M = nil, nil;
+										s7 = not Y7;
+										Y7 = nil;
+										Q = s7 and 4170913 or 1695536;
+										s7 = nil;
+									elseif Q < 446887.0 then
+										s7 = nil;
+										s7 = nil;
+										Q = nil;
+										X = G();
+									elseif Q < 641254.0 then
+										X = G();
+										Q = nil;
 									else
-										UE = c[e[1]];
-										C, i = s(-60585), k[46];
-										p = o[i];
-										i = nil;
-										i = k[41];
-										vE = p[i];
-										p, i = nil, nil;
-										j = k[12];
-										j = UE[j];
-										j = q(j, o, UE, C, vE);
-										j, UE, C, vE = nil, nil, nil, nil;
-										O = nil;
-										Z = G();
+										c = C[2];
+										p = Y[c];
+										c = nil;
+										E = C[65];
+										P7 = Y[E];
+										E = nil;
+										E = h(-63137);
+										u7 = P7[E];
+										P7, E = nil, nil;
+										P7 = u(u7, Y, s7);
+										u7 = nil;
+										u7 = G(P7);
+										P7 = nil;
+										c = u(p, Y, z(u7));
+										p, u7 = nil, nil;
+										p = C[63];
+										p = c[p];
+										p = u(p, Y, c);
+										c = nil;
+										u7, c = h(-63127), C[58];
+										c = p[c];
+										P7 = h(-63275);
+										c = u(c, Y, p, u7, P7);
+										p, u7, P7 = nil, nil, nil;
+										p, u7, P7 = C[58], h(-63258), h(-63284);
+										p = c[p];
+										p = u(p, Y, c, u7, P7);
+										c, u7, P7 = nil, nil, nil;
+										c = C[63];
+										c = p[c];
+										c = u(c, Y, p);
+										p = nil;
+										q = c .. a;
+										c = nil;
+										X = G(q);
+										q = nil;
+										Q = nil;
 									end;
 								else
-									if 777361.0 > O then
-										j, OE, C = w[2], s(-60566), w[3];
-										vE = c[e[1]];
-										kE = c[e[2]];
-										UE = w[1];
-										i = kE[OE];
-										kE, OE = nil, nil;
-										kE, OE = k[50], s(-60510);
-										kE = i[kE];
-										kE = q(kE, o, i, OE);
-										i, OE = nil, nil;
-										OE, i = s(-60456), k[50];
-										i = kE[i];
-										i = q(i, o, kE, OE);
-										kE, OE = nil, nil;
-										OE, kE = k[71], k[50];
-										kE = i[kE];
-										kE = q(kE, o, i, OE);
-										i, OE = nil, nil;
-										OE, i = k[67], k[50];
-										i = kE[i];
-										i = q(i, o, kE, OE);
-										kE, OE = nil, nil;
-										OE, P = s(-60572), k[50];
-										P = i[P];
-										kE = G(q(P, o, i, OE));
-										P, i, OE = nil, nil, nil;
-										p = q(vE, o, f(kE));
-										vE, kE = nil, nil;
-										i = k[7];
-										vE, kE = p, UE;
-										vE[i] = kE;
-										vE, i, kE = nil, nil, nil;
-										i, vE = s(-60471), k[50];
-										vE = p[vE];
-										vE = q(vE, o, p, i);
-										i = nil;
-										kE, i = s(-60491), k[50];
-										i = vE[i];
-										i = q(i, o, vE, kE);
-										vE, kE = nil, nil;
-										kE, vE = j, k[57];
-										i[vE] = kE;
-										i, vE, kE = nil, nil, nil;
-										i, vE = k[42], k[50];
-										vE = p[vE];
-										vE = q(vE, o, p, i);
-										i = nil;
-										i = k[50];
-										i = vE[i];
-										kE = k[47];
-										i = q(i, o, vE, kE);
-										vE, kE = nil, nil;
-										vE, kE = s(-60594), s(-60602);
-										vE = i[vE];
-										vE = q(vE, o, i, kE);
-										i, kE = nil, nil;
-										i = k[77];
-										i = vE[i];
-										i = q(i, o, vE);
-										i, vE = nil, nil;
-										i, vE = k[42], k[50];
-										vE = p[vE];
-										vE = q(vE, o, p, i);
-										i = nil;
-										i = k[50];
-										i = vE[i];
-										kE = s(-60624);
-										i = q(i, o, vE, kE);
-										vE, kE = nil, nil;
-										vE, kE = s(-60599), UE;
-										i[vE] = kE;
-										i, vE, kE = nil, nil, nil;
-										i, vE = k[30], k[50];
-										vE = p[vE];
-										vE = q(vE, o, p, i);
-										i = nil;
-										i, kE = k[50], s(-60635);
-										i = vE[i];
-										i = q(i, o, vE, kE);
-										vE, kE = nil, nil;
-										kE, vE = 12650500 <= 3551194, k[15];
-										i[vE] = kE;
-										i, vE, kE = nil, nil, nil;
-										OE = k[50];
-										vE = c[e[1]];
-										P = s(-60590);
-										kE = c[e[3]];
-										OE = kE[OE];
-										OE = q(OE, o, kE, P);
-										kE, P = nil, nil;
-										kE, P = k[50], s(-60632);
-										kE = OE[kE];
-										kE = q(kE, o, OE, P);
-										OE, P = nil, nil;
-										P = k[50];
-										P = kE[P];
-										OE = G(q(P, o, kE, C));
-										P, kE = nil, nil;
-										i = q(vE, o, f(OE));
-										vE, OE = nil, nil;
-										kE, P = k[69], k[42];
-										OE, vE = k[50], i;
-										OE = p[OE];
-										OE = q(OE, o, p, P);
-										P = nil;
-										YE, P = k[47], k[50];
-										P = OE[P];
-										P = q(P, o, OE, YE);
-										OE, YE = nil, nil;
-										vE[kE] = P;
-										vE, kE, P = nil, nil, nil;
-										O = nil;
-										Z = G(p);
-									elseif O < 981467.0 then
-										j, p = k[27], k[46];
-										UE = c[e[1]];
-										vE = o[p];
+									if Q < 1448093.0 then
+										s7, a, p = k[1], h(-63272), C[19];
+										a = s7[a];
+										M = C[19];
+										a = u(a, Y, s7);
+										Y7 = a;
+										q = s7[p];
 										p = nil;
-										p = k[41];
-										C = vE[p];
-										vE, p = nil, nil;
-										UE[j] = C;
-										UE, j, C = nil, nil, nil;
-										j = k[51];
-										UE = c[e[1]];
-										p = k[46];
-										vE = o[p];
-										p = nil;
-										p = k[41];
-										C = vE[p];
-										vE, p = nil, nil;
-										UE[j] = C;
-										UE, j, C = nil, nil, nil;
-										UE = c[e[1]];
-										j, C = k[37], 1;
-										UE[j] = C;
-										UE, j, C = nil, nil, nil;
-										Z = G();
-										O = nil;
+										Y7[M] = q;
+										Y7, M, q = nil, nil, nil;
+										X = G(a);
+										Q = nil;
+									elseif 1713671.5 > Q then
+										Y7 = C[66];
+										a = I[f[1]];
+										M = C[28];
+										Y7 = a[Y7];
+										Y7 = u(Y7, Y, a, M);
+										a, M = nil, nil;
+										s7 = not Y7;
+										Y7 = nil;
+										Q = s7 and 4393921 or 8448773;
+										s7 = nil;
 									else
-										j = k[24];
-										UE = o[j];
-										j = nil;
-										vE, C, j = 3300269 < 15027005, k[3], k[12];
-										j = UE[j];
-										j = q(j, o, UE, C, vE);
-										j, UE, C, vE = nil, nil, nil, nil;
-										j = k[24];
-										UE = o[j];
-										j = nil;
-										vE, C, j = 60, s(-60552), k[12];
-										j = UE[j];
-										j = q(j, o, UE, C, vE);
-										j, UE, C, vE = nil, nil, nil, nil;
-										O = nil;
-										Z = G();
+										Y7 = C[37];
+										a = Y[Y7];
+										Y7 = nil;
+										Y7 = C[9];
+										s7 = a[Y7];
+										a, Y7 = nil, nil;
+										q, Y7 = C[32], h(-63121);
+										M = Y[q];
+										q = nil;
+										a = u(s7, Y, Y7, M);
+										s7, Y7, M = nil, nil, nil;
+										Y7, s7, p = C[59], a, C[59];
+										q = Y[p];
+										p = nil;
+										p = C[9];
+										M = q[p];
+										q, p = nil, nil;
+										p = h(-63279);
+										q = u(M, Y, p);
+										M, p = nil, nil;
+										s7[Y7] = q;
+										s7, Y7, q = nil, nil, nil;
+										Y7, s7, p = h(-63118), a, h(-63099);
+										q = Y[p];
+										p = nil;
+										p = C[9];
+										M = q[p];
+										q, p = nil, nil;
+										c, u7, p = .2, .2, .2;
+										q = u(M, Y, p, c, u7);
+										M, p, c, u7 = nil, nil, nil, nil;
+										s7[Y7] = q;
+										s7, Y7, q = nil, nil, nil;
+										c, Y7, s7 = h(-63135), C[12], a;
+										p = Y[c];
+										c = nil;
+										c = C[12];
+										q = p[c];
+										p, c = nil, nil;
+										p = h(-63142);
+										M = q[p];
+										q, p = nil, nil;
+										s7[Y7] = M;
+										s7, Y7, M = nil, nil, nil;
+										Y7, M, s7 = h(-63293), 15547796 >= 13508902, a;
+										s7[Y7] = M;
+										s7, Y7, M = nil, nil, nil;
+										s7, Y7, M = a, h(-63262), 2907536 >= 4210913;
+										s7[Y7] = M;
+										s7, Y7, M = nil, nil, nil;
+										Y7, s7, p = C[38], a, C[38];
+										q = Y[p];
+										p = nil;
+										p = C[9];
+										M = q[p];
+										q, p = nil, nil;
+										p = I[f[1]];
+										q = u(M, Y, p);
+										M, p = nil, nil;
+										s7[Y7] = q;
+										s7, Y7, q = nil, nil, nil;
+										M = h(-63155);
+										Y7 = Y[M];
+										M = nil;
+										M = C[15];
+										s7 = Y7[M];
+										Y7, M = nil, nil;
+										M = I[f[2]];
+										Y7 = u(s7, Y, M);
+										s7, Y7, M = nil, nil, nil;
+										s7 = C[24];
+										s7 = a[s7];
+										s7 = u(s7, Y, a);
+										s7 = nil;
+										a = nil;
+										a = nil;
+										X = G();
+										Q = nil;
 									end;
 								end;
 							else
-								if O > 2700005.0 then
-									if 2988172.0 > O then
-										UE = c[e[1]];
-										j = s(-60429);
-										j = UE[j];
-										j = q(j, o, UE);
-										j, UE = nil, nil;
-										UE = nil;
-										c[e[1]] = UE;
-										UE = nil;
-										O = 13599171;
-									elseif O < 3099540.5 then
-										j = k[24];
-										UE = o[j];
-										j = nil;
-										vE, C = k[33], k[73];
-										vE = UE[vE];
-										j = G(q(vE, o, UE, C));
-										vE, UE, C = nil, nil, nil;
-										Z = G(f(j));
-										j = nil;
-										O = nil;
+								if Q > 3311593.5 then
+									if Q < 3966978.0 then
+										P7, q = h(-63100), C[71];
+										u7 = Y[P7];
+										P7 = nil;
+										P7 = h(-63207);
+										c = u7[P7];
+										u7, P7 = nil, nil;
+										E = C[2];
+										P7 = Y[E];
+										E = nil;
+										E = u(P7, Y, s7);
+										P7 = nil;
+										P7 = C[71];
+										u7 = u(c, Y, E, P7);
+										c, E, P7 = nil, nil, nil;
+										c = 2;
+										p = u7[c];
+										u7, c = nil, nil;
+										M = q .. p;
+										p, q = nil, nil;
+										Q, a = 733270, M;
+									elseif 4124995.5 > Q then
+										M, Y7 = h(-63215), C[44];
+										a = I[f[1]];
+										Y7 = a[Y7];
+										Y7 = u(Y7, Y, a, M);
+										s7 = G(v(1, z(k)));
+										a, M = nil, nil;
+										a, M = C[44], h(-63091);
+										a = Y7[a];
+										a = u(a, Y, Y7, M);
+										Y7, M = nil, nil;
+										M, Y7 = C[50], C[44];
+										Y7 = a[Y7];
+										Y7 = u(Y7, Y, a, M);
+										a, M = nil, nil;
+										a = h(-63286);
+										a = Y7[a];
+										a = u(a, Y, Y7, z(s7));
+										a, Y7 = nil, nil;
+										Q = nil;
+										X = G();
 									else
-										C = k[76];
-										j = o[C];
-										UE = w;
-										C = nil;
-										vE, C = k[2], k[48];
-										C = j[C];
-										C = q(C, o, j, vE);
-										j, vE = nil, nil;
-										vE = s(-60556);
-										j = C[vE];
-										vE = nil;
-										vE = E();
-										c[vE] = j;
-										j = nil;
-										p = k[76];
-										j = o[p];
-										p = nil;
-										i, p = k[35], k[48];
-										p = j[p];
-										p = q(p, o, j, i);
-										j, i = nil, nil;
-										j = E();
-										c[j] = p;
-										p = nil;
-										i = k[76];
-										p = o[i];
-										i = nil;
-										i, kE = k[48], s(-60436);
-										i = p[i];
-										i = q(i, o, p, kE);
-										p, kE = nil, nil;
-										p = E();
-										c[p] = i;
-										i = nil;
-										kE = k[76];
-										i = o[kE];
-										kE = nil;
-										kE = k[48];
-										kE = i[kE];
-										OE = s(-60444);
-										kE = q(kE, o, i, OE);
-										i, OE = nil, nil;
-										i = E();
-										c[i] = kE;
-										kE = nil;
-										OE = k[25];
-										kE = o[OE];
-										OE = nil;
-										YE = k[76];
-										P = o[YE];
-										YE = nil;
-										KE, y = s(-60616), k[11];
-										y = P[y];
-										YE = G(q(y, o, P, KE));
-										y, P, KE = nil, nil, nil;
-										OE = q(kE, o, f(YE));
-										kE, YE = nil, nil;
-										kE = q(OE, o);
-										OE = nil;
-										OE = E();
-										c[OE] = kE;
-										kE = nil;
-										P = k[6];
-										kE = o[P];
-										P = nil;
-										y, KE = s(-60426), k[50];
-										YE = c[i];
-										KE = YE[KE];
-										KE = q(KE, o, YE, y);
-										YE, y = nil, nil;
-										sE = k[50];
-										sE = KE[sE];
-										y = s(-60536);
-										YE = G(q(sE, o, KE, y));
-										sE, KE, y = nil, nil, nil;
-										P = q(kE, o, f(YE));
-										kE, YE = nil, nil;
-										YE = k[6];
-										kE = o[YE];
-										YE = nil;
-										y = k[50];
-										KE = c[i];
-										y = KE[y];
-										sE = s(-60627);
-										y = q(y, o, KE, sE);
-										KE, sE = nil, nil;
-										sE, u = k[67], k[50];
-										u = y[u];
-										KE = G(q(u, o, y, sE));
-										u, y, sE = nil, nil, nil;
-										YE = q(kE, o, f(KE));
-										kE, KE = nil, nil;
-										kE = E();
-										c[kE] = YE;
-										YE = nil;
-										TE, V, u, h, pE, T, l, CE, wE, Y, W, ME, sE, RE, iE, EE, I, S, DE, m, oE, bE, B, F = k[62], s(-60589), k[5], s(-60530), 2805991 >= 15106595, s(-60469), s(-60558), s(-60574), k[5], s(-60596), 0, s(-60505), k[7], s(-60531), s(-60503), s(-60563), s(-60434), 12938612 <= 6386857, k[49], s(-60428), s(-60569), 8000676 < 14946122, s(-60474), s(-60529);
-										YE = c[OE];
-										FE, d = { [TE] = bE, [I] = wE, [DE] = oE }, s(-60526);
-										bE, TE, wE, I, oE, DE = nil, nil, nil, nil, nil, nil;
-										z, oE, wE, DE, TE, XE, I = 11582485 <= 15047114, s(-60580), 14037916 < 8484365, s(-60545), s(-60517), s(-60490), k[62];
-										bE = { [I] = wE, [DE] = oE, [XE] = z };
-										wE, I, oE, DE, z, XE = nil, nil, nil, nil, nil, nil;
-										a, HE, gE, n, t, z, wE, x, A, LE, I, D, PE, N, DE, eE, JE = 4422460 > 10376401, s(-60607), 13087357 ~= 10492678, s(-60609), s(-60481), s(-60544), 15689740 > 15580010, k[49], s(-60427), s(-60453), s(-60603), s(-60578), s(-60619), s(-60520), s(-60432), s(-60537), s(-60449);
-										U, XE = { PE, N }, k[65];
-										PE, N = nil, nil;
-										oE = {
-												[XE] = z,
-												[eE] = D,
-												[JE] = t,
-												[x] = A,
-												[n] = gE,
-												[LE] = a,
-												[HE] = U,
-											};
-										z, XE, D, eE, t, JE, A, x, gE, n, a, LE, U, HE = nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil;
-										y = {
-												[sE] = u,
-												[B] = W,
-												[iE] = Y,
-												[RE] = d,
-												[l] = CE,
-												[F] = m,
-												[V] = T,
-												[EE] = S,
-												[h] = pE,
-												[ME] = FE,
-												[TE] = bE,
-												[I] = wE,
-												[DE] = oE,
-											};
-										u, sE, W, B, Y, iE, d, RE, CE, l, m, F, T, V, S, EE, pE, h, FE, ME, bE, TE, wE, I, oE, DE = nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil;
-										KE = s(-60579);
-										KE = YE[KE];
-										KE = q(KE, o, YE, y);
-										YE, y = nil, nil;
-										y = k[9];
-										YE = o[y];
-										y = nil;
-										iE, u = k[76], 1;
-										W = o[iE];
-										iE = nil;
-										iE, Y = k[48], k[28];
-										iE = W[iE];
-										iE = q(iE, o, W, Y);
-										W, Y = nil, nil;
-										W = k[44];
-										B = iE[W];
-										iE, W = nil, nil;
-										sE = u * B;
-										B, u = nil, nil;
-										y = q(YE, o, sE);
-										YE, y, sE = nil, nil, nil;
-										y = E();
-										YE = nil;
-										c[y] = YE;
-										YE = nil;
-										u, B = k[36], k[39];
-										sE = c[i];
-										u = sE[u];
-										u = q(u, o, sE, B);
-										sE, B = nil, nil;
-										YE = not u;
-										u = nil;
-										O = YE and 7956182 or 196539;
-										YE = nil;
+										Y7 = C[37];
+										a = Y[Y7];
+										Y7 = nil;
+										Y7 = C[9];
+										s7 = a[Y7];
+										a, Y7 = nil, nil;
+										Y7 = h(-63213);
+										M = I[f[1]];
+										a = u(s7, Y, Y7, M);
+										s7, Y7, M = nil, nil, nil;
+										M, Y7 = C[42], C[34];
+										s7 = a;
+										s7[Y7] = M;
+										s7, Y7, M = nil, nil, nil;
+										s7, Y7, q = a, C[7], C[32];
+										M = Y[q];
+										q = nil;
+										p, q = h(-63211), C[62];
+										q = M[q];
+										q = u(q, Y, M, p);
+										M, p = nil, nil;
+										s7[Y7] = q;
+										s7, Y7, q = nil, nil, nil;
+										a = nil;
+										a = nil;
+										Q = 1695536;
 									end;
 								else
-									if O < 1450220.0 then
-										KE, p, OE, UE, kE, P = k[57], k[65], s(-60480), w[1], k[71], k[45];
-										j = c[e[1]];
-										y, i, YE = s(-60628), s(-60587), 5;
-										vE = {
-												[p] = i,
-												[kE] = OE,
-												[P] = YE,
-												[KE] = y,
-											};
-										i, p, OE, kE, YE, P, y, KE = nil, nil, nil, nil, nil, nil, nil, nil;
-										C = k[18];
-										C = j[C];
-										C = q(C, o, j, vE);
-										C, j, vE = nil, nil, nil;
-										C = k[25];
-										j = o[C];
-										C = nil;
-										p = k[76];
-										vE = o[p];
-										p = nil;
-										i = k[11];
-										i = vE[i];
-										p = G(q(i, o, vE, UE));
-										i, vE = nil, nil;
-										C = q(j, o, f(p));
-										j, p = nil, nil;
-										j = q(C, o);
-										C, j = nil, nil;
-										UE = nil;
-										UE = nil;
-										Z = G();
-										O = nil;
-									elseif O < 1776298.5 then
-										UE = c[e[1]];
-										C = s(-60592);
-										j = q(UE, o, C);
-										UE, j, C = nil, nil, nil;
-										O = nil;
-										Z = G();
-									elseif O < 2207275.5 then
-										p, UE = 1, w[1];
-										vE = UE % p;
-										p = nil;
-										p = 0;
-										C = vE == p;
-										p, vE = nil, nil;
-										O = C and 6683475 or 3958364;
-										C = nil;
+									if 2280945.5 > Q then
+										s7 = I[f[1]];
+										a = h(-63246);
+										a = s7[a];
+										a = u(a, Y, s7);
+										a, s7 = nil, nil;
+										s7 = nil;
+										I[f[1]] = s7;
+										s7 = nil;
+										Q = 11809156;
+									elseif 2671148.5 > Q then
+										p = C[73];
+										s7 = I[f[1]];
+										q = I[f[2]];
+										M = q[p];
+										q, p = nil, nil;
+										q = C[34];
+										Y7 = M[q];
+										M, q = nil, nil;
+										q, P7 = C[11], C[73];
+										u7 = I[f[2]];
+										c = u7[P7];
+										u7, P7 = nil, nil;
+										u7 = C[60];
+										p = c[u7];
+										c, u7 = nil, nil;
+										M = q .. p;
+										p, q = nil, nil;
+										q = C[5];
+										a = u(s7, Y, Y7, M, q);
+										s7, Y7, M, q = nil, nil, nil, nil;
+										Y7, s7 = C[27], C[44];
+										s7 = a[s7];
+										s7 = u(s7, Y, a, Y7);
+										Y7 = nil;
+										M, Y7 = C[67], C[44];
+										Y7 = s7[Y7];
+										Y7 = u(Y7, Y, s7, M);
+										s7, M = nil, nil;
+										M, s7 = 8052233 ~= 988730, C[52];
+										Y7[s7] = M;
+										Y7, s7, M = nil, nil, nil;
+										a = nil;
+										a = nil;
+										Q = nil;
+										X = G();
+									elseif Q < 2733043.5 then
+										a = h(-63285);
+										s7 = Y[a];
+										a = nil;
+										Y7, a = C[41], C[62];
+										a = s7[a];
+										a = u(a, Y, s7, Y7);
+										s7, Y7 = nil, nil;
+										Q = a and 6888154 or 14588129;
+										a = nil;
 									else
-										C = s(-60634);
-										UE = c[e[1]];
-										j = q(UE, o, C);
-										UE, j, C = nil, nil, nil;
-										Z = G();
-										O = nil;
+										q, s7 = 1, k[1];
+										M = s7 % q;
+										q = nil;
+										q = 0;
+										Y7 = M == q;
+										q, M = nil, nil;
+										Q = Y7 and 14330182 or 3854878;
+										Y7 = nil;
 									end;
 								end;
 							end;
 						else
-							if 4510119.0 > O then
-								if O > 3900153.5 then
-									if 4071100.0 > O then
-										P = s(-60459);
-										OE = o[P];
-										p = k[31];
-										P = nil;
-										P = s(-60623);
-										kE = OE[P];
-										OE, P = nil, nil;
-										YE = k[34];
-										P = o[YE];
-										YE = nil;
-										YE = q(P, o, UE);
-										P = nil;
-										P = k[31];
-										OE = q(kE, o, YE, P);
-										kE, YE, P = nil, nil, nil;
-										kE = 2;
-										i = OE[kE];
-										OE, kE = nil, nil;
-										vE = p .. i;
-										i, p = nil, nil;
-										O, j = 10042001, vE;
-									elseif O < 4255006.5 then
-										j = c[e[1]];
-										C = q(j, o);
-										j, C = nil, nil;
-										O = 9084306;
+							if 5618178.0 > Q then
+								if Q > 4920916.5 then
+									if 5102529.5 > Q then
+										Q = nil;
+										X = G();
+									elseif 5330582.5 > Q then
+										r = b();
+										L = T(10624375, { u7 }, Y);
+										E = P(323382, { n }, Y);
+										I[r] = L;
+										L = nil;
+										L = J(8219305, {}, Y);
+										F7 = F(12752003, {}, Y);
+										B = O(8265112, {}, Y);
+										h7 = P(16109357, {}, Y);
+										l = b();
+										I[l] = h7;
+										h7 = nil;
+										o = T(1200650, {}, Y);
+										h7 = b();
+										I[h7] = o;
+										o = nil;
+										g7 = N(4079078, { p }, Y);
+										o = b();
+										I[o] = g7;
+										g7 = nil;
+										z7 = O(5428668, { h7, M, p }, Y);
+										g7 = T(2768309, {}, Y);
+										D7 = b();
+										I[D7] = z7;
+										z7 = nil;
+										z7 = nil;
+										V = b();
+										I[V] = z7;
+										z7 = nil;
+										g = T(4869271, { V, q, a }, Y);
+										z7 = b();
+										I[z7] = g;
+										g = nil;
+										g = b();
+										H7 = T(10594930, { V }, Y);
+										I[g] = H7;
+										H7 = nil;
+										b7 = C[15];
+										H7 = Y[b7];
+										b7 = nil;
+										R, O7 = 1, C[14];
+										C7 = Y[O7];
+										O7 = nil;
+										w7, O7 = C[64], C[30];
+										O7 = C7[O7];
+										O7 = u(O7, Y, C7, w7);
+										C7, w7 = nil, nil;
+										C7 = C[51];
+										e = O7[C7];
+										O7, C7 = nil, nil;
+										t = R * e;
+										e, R = nil, nil;
+										b7 = u(H7, Y, t);
+										H7, b7, t = nil, nil, nil;
+										t, H7 = h(-63148), C[55];
+										H7 = Z[H7];
+										b7 = C[35];
+										H7 = u(H7, Y, Z, b7, t);
+										b7, t = nil, nil;
+										b7 = C[68];
+										b7 = H7[b7];
+										t = C[35];
+										b7 = u(b7, Y, H7, t);
+										b7, t = nil, nil;
+										S = h(-63189);
+										i = I[M];
+										R, w7, e, C7 = C[10], h(-63208), h(-63225), C[4];
+										Q7 = i[S];
+										i, S = nil, nil;
+										O7 = w7  .. Q7;
+										Q7, w7 = nil, nil;
+										t = { [R] = e, [C7] = O7 };
+										e, R, O7, C7 = nil, nil, nil, nil;
+										b7 = h(-63234);
+										b7 = H7[b7];
+										b7 = u(b7, Y, H7, t);
+										b7, t = nil, nil;
+										t = C[15];
+										b7 = Y[t];
+										t = nil;
+										w7 = C[14];
+										O7 = Y[w7];
+										e = 1;
+										w7 = nil;
+										Q7, w7 = C[64], C[30];
+										w7 = O7[w7];
+										w7 = u(w7, Y, O7, Q7);
+										O7, Q7 = nil, nil;
+										O7 = C[51];
+										C7 = w7[O7];
+										w7, O7 = nil, nil;
+										R = e * C7;
+										C7, e = nil, nil;
+										t = u(b7, Y, R);
+										b7, t, R = nil, nil, nil;
+										b7, R, t = C[55], h(-63106), C[29];
+										b7 = Z[b7];
+										b7 = u(b7, Y, Z, t, R);
+										t, R = nil, nil;
+										t = C[68];
+										R = C[29];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										C7 = h(-63183);
+										w7 = T(12880138, { M }, Y);
+										O7, e = C[21], C[34];
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										C7, O7, e = h(-63214), C[21], C[34];
+										w7 = J(5807688, { M }, Y);
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										w7 = J(2697778, { M, l, u7 }, Y);
+										C7, O7, e = h(-63164), C[21], C[34];
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										t, R = C[68], C[74];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										C7, e = h(-63292), C[34];
+										w7 = P(2644519, { D7, c }, Y);
+										O7 = C[21];
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										e, C7 = C[34], h(-63093);
+										w7 = A(9015629, { D7, c }, Y);
+										O7 = C[21];
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										e = C[34];
+										w7 = A(7957027, { D7, c }, Y);
+										C7, O7 = h(-63117), C[21];
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										O7, e, C7 = C[21], C[34], h(-63162);
+										w7 = P(11910280, { D7, c }, Y);
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										e, C7, O7 = C[34], h(-63264), C[21];
+										w7 = x(12178205, { D7, c }, Y);
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										O7, C7, e = C[21], h(-63242), C[34];
+										w7 = T(11948030, { D7, c }, Y);
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										w7 = x(14904875, { D7, c }, Y);
+										e, O7, C7 = C[34], C[21], h(-63243);
+										R = { [e] = C7, [O7] = w7 };
+										C7, e, w7, O7 = nil, nil, nil, nil;
+										t = C[36];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										R, t = h(-63115), C[68];
+										t = b7[t];
+										t = u(t, Y, b7, R);
+										t, R = nil, nil;
+										R = C[15];
+										t = Y[R];
+										R = nil;
+										Q7, C7 = C[14], 1;
+										w7 = Y[Q7];
+										Q7 = nil;
+										i, Q7 = C[64], C[30];
+										Q7 = w7[Q7];
+										Q7 = u(Q7, Y, w7, i);
+										w7, i = nil, nil;
+										w7 = C[51];
+										O7 = Q7[w7];
+										Q7, w7 = nil, nil;
+										e = C7 * O7;
+										O7, C7 = nil, nil;
+										R = u(t, Y, e);
+										t, R, e = nil, nil, nil;
+										t, R, e = C[55], C[8], h(-63120);
+										t = Z[t];
+										t = u(t, Y, Z, R, e);
+										R, e = nil, nil;
+										R, e = C[68], C[8];
+										R = t[R];
+										R = u(R, Y, t, e);
+										R, e = nil, nil;
+										O7, w7, C7 = h(-63288), C[21], C[34];
+										Q7 = A(9040451, {}, Y);
+										e = { [C7] = O7, [w7] = Q7 };
+										O7, C7, Q7, w7 = nil, nil, nil, nil;
+										R = C[36];
+										R = t[R];
+										R = u(R, Y, t, e);
+										R, e = nil, nil;
+										w7 = C[21];
+										Q7 = x(14579475, { o, l }, Y);
+										O7, C7 = h(-63161), C[34];
+										e = { [C7] = O7, [w7] = Q7 };
+										O7, C7, Q7, w7 = nil, nil, nil, nil;
+										R = C[36];
+										R = t[R];
+										R = u(R, Y, t, e);
+										R, e = nil, nil;
+										e = C[15];
+										R = Y[e];
+										e = nil;
+										O7, i = 1, C[14];
+										Q7 = Y[i];
+										i = nil;
+										i = C[30];
+										i = Q7[i];
+										S = C[64];
+										i = u(i, Y, Q7, S);
+										Q7, S = nil, nil;
+										Q7 = C[51];
+										w7 = i[Q7];
+										i, Q7 = nil, nil;
+										C7 = O7 * w7;
+										w7, O7 = nil, nil;
+										e = u(R, Y, C7);
+										R, e, C7 = nil, nil, nil;
+										e, C7, R = C[48], h(-63193), C[55];
+										R = Z[R];
+										R = u(R, Y, Z, e, C7);
+										e, C7 = nil, nil;
+										C7, e = C[48], C[68];
+										e = R[e];
+										e = u(e, Y, R, C7);
+										e, C7 = nil, nil;
+										w7, Q7, O7 = h(-63145), C[21], C[34];
+										i = O(8415196, { a }, Y);
+										C7 = { [O7] = w7, [Q7] = i };
+										w7, O7, i, Q7 = nil, nil, nil, nil;
+										e = C[36];
+										e = R[e];
+										e = u(e, Y, R, C7);
+										e, C7 = nil, nil;
+										w7, i, S, Q7, O7 = h(-63244), 12844778 <= 2905269, C[21], h(-63198), C[34];
+										v7 = T(4779944, { z7, g }, Y);
+										C7 = { [O7] = w7, [Q7] = i, [S] = v7 };
+										w7, O7, i, Q7, v7, S = nil, nil, nil, nil, nil, nil;
+										e = h(-63143);
+										e = R[e];
+										e = u(e, Y, R, C7);
+										e, C7 = nil, nil;
+										C7 = C[15];
+										e = Y[C7];
+										C7 = nil;
+										S, w7 = C[14], 1;
+										i = Y[S];
+										S = nil;
+										v7, S = C[64], C[30];
+										S = i[S];
+										S = u(S, Y, i, v7);
+										i, v7 = nil, nil;
+										i = C[51];
+										Q7 = S[i];
+										S, i = nil, nil;
+										O7 = w7 * Q7;
+										Q7, w7 = nil, nil;
+										C7 = u(e, Y, O7);
+										e, C7, O7 = nil, nil, nil;
+										C7, O7, e = C[33], h(-63153), C[55];
+										e = Z[e];
+										e = u(e, Y, Z, C7, O7);
+										C7, O7 = nil, nil;
+										C7 = C[68];
+										C7 = e[C7];
+										O7 = C[33];
+										C7 = u(C7, Y, e, O7);
+										C7, O7 = nil, nil;
+										w7, Q7, i = C[34], h(-63094), C[21];
+										S = A(12457792, { r }, Y);
+										O7 = { [w7] = Q7, [i] = S };
+										Q7, w7, S, i = nil, nil, nil, nil;
+										C7 = C[36];
+										C7 = e[C7];
+										C7 = u(C7, Y, e, O7);
+										C7, O7 = nil, nil;
+										S = x(6980737, { r }, Y);
+										w7, i, Q7 = C[34], C[21], h(-63092);
+										O7 = { [w7] = Q7, [i] = S };
+										Q7, w7, S, i = nil, nil, nil, nil;
+										C7 = C[36];
+										C7 = e[C7];
+										C7 = u(C7, Y, e, O7);
+										C7, O7 = nil, nil;
+										i, Q7, w7 = C[21], h(-63289), C[34];
+										S = x(14818940, { r }, Y);
+										O7 = { [w7] = Q7, [i] = S };
+										Q7, w7, S, i = nil, nil, nil, nil;
+										C7 = C[36];
+										C7 = e[C7];
+										C7 = u(C7, Y, e, O7);
+										C7, O7 = nil, nil;
+										C7 = u(E, Y);
+										C7 = nil;
+										Y7 = nil;
+										Y7 = nil;
+										M = D(M);
+										M = nil;
+										a = D(a);
+										a = nil;
+										q = D(q);
+										q = nil;
+										p = D(p);
+										p = nil;
+										u7 = D(u7);
+										u7 = nil;
+										P7 = nil;
+										P7 = nil;
+										c = D(c);
+										c = nil;
+										Z = nil;
+										Z = nil;
+										n = D(n);
+										n = nil;
+										E = nil;
+										E = nil;
+										r = D(r);
+										r = nil;
+										L = nil;
+										L = nil;
+										B = nil;
+										B = nil;
+										F7 = nil;
+										F7 = nil;
+										l = D(l);
+										l = nil;
+										h7 = D(h7);
+										h7 = nil;
+										o = D(o);
+										o = nil;
+										g7 = nil;
+										g7 = nil;
+										D7 = D(D7);
+										D7 = nil;
+										V = D(V);
+										V = nil;
+										z7 = D(z7);
+										z7 = nil;
+										g = D(g);
+										g = nil;
+										H7 = nil;
+										H7 = nil;
+										b7 = nil;
+										b7 = nil;
+										t = nil;
+										t = nil;
+										R = nil;
+										R = nil;
+										e = nil;
+										e = nil;
+										X = G();
+										Q = nil;
 									else
-										C = k[23];
-										j = o[C];
-										C = nil;
-										C = k[4];
-										UE = j[C];
-										j, C = nil, nil;
-										vE = c[e[1]];
-										C = s(-60461);
-										j = q(UE, o, C, vE);
-										UE, C, vE = nil, nil, nil;
-										C = k[7];
-										vE, UE = k[16], j;
-										UE[C] = vE;
-										UE, C, vE = nil, nil, nil;
-										C, vE, UE = k[54], s(-60485), j;
-										UE[C] = vE;
-										UE, C, vE = nil, nil, nil;
-										j = nil;
-										j = nil;
-										O = 214092;
+										a = k[2];
+										M = I[f[1]];
+										s7, u7, Y7 = k[1], h(-63184), k[3];
+										c = I[f[2]];
+										p = c[u7];
+										c, u7 = nil, nil;
+										u7, c = h(-63302), C[44];
+										c = p[c];
+										c = u(c, Y, p, u7);
+										p, u7 = nil, nil;
+										u7, p = h(-63097), C[44];
+										p = c[p];
+										p = u(p, Y, c, u7);
+										c, u7 = nil, nil;
+										c = C[44];
+										c = p[c];
+										u7 = C[4];
+										c = u(c, Y, p, u7);
+										p, u7 = nil, nil;
+										p, u7 = C[44], C[74];
+										p = c[p];
+										p = u(p, Y, c, u7);
+										c, u7 = nil, nil;
+										P7, u7 = C[44], h(-63232);
+										P7 = p[P7];
+										c = G(u(P7, Y, p, u7));
+										P7, p, u7 = nil, nil, nil;
+										q = u(M, Y, z(c));
+										M, c = nil, nil;
+										c = s7;
+										M, p = q, C[34];
+										M[p] = c;
+										M, p, c = nil, nil, nil;
+										p, M = h(-63170), C[44];
+										M = q[M];
+										M = u(M, Y, q, p);
+										p = nil;
+										c, p = h(-63096), C[44];
+										p = M[p];
+										p = u(p, Y, M, c);
+										M, c = nil, nil;
+										M, c = C[3], a;
+										p[M] = c;
+										p, M, c = nil, nil, nil;
+										M, p = C[44], C[46];
+										M = q[M];
+										M = u(M, Y, q, p);
+										p = nil;
+										p, c = C[44], C[20];
+										p = M[p];
+										p = u(p, Y, M, c);
+										M, c = nil, nil;
+										c, M = h(-63166), h(-63231);
+										M = p[M];
+										M = u(M, Y, p, c);
+										p, c = nil, nil;
+										p = C[24];
+										p = M[p];
+										p = u(p, Y, M);
+										p, M = nil, nil;
+										M, p = C[44], C[46];
+										M = q[M];
+										M = u(M, Y, q, p);
+										p = nil;
+										p = C[44];
+										p = M[p];
+										c = h(-63102);
+										p = u(p, Y, M, c);
+										M, c = nil, nil;
+										M, c = h(-63291), s7;
+										p[M] = c;
+										p, M, c = nil, nil, nil;
+										p, M = C[27], C[44];
+										M = q[M];
+										M = u(M, Y, q, p);
+										p = nil;
+										c, p = h(-63165), C[44];
+										p = M[p];
+										p = u(p, Y, M, c);
+										M, c = nil, nil;
+										c, M = 15069943 <= 611300, C[52];
+										p[M] = c;
+										p, M, c = nil, nil, nil;
+										M = I[f[1]];
+										P7 = h(-63252);
+										c = I[f[3]];
+										u7 = C[44];
+										u7 = c[u7];
+										u7 = u(u7, Y, c, P7);
+										c, P7 = nil, nil;
+										P7, c = h(-63271), C[44];
+										c = u7[c];
+										c = u(c, Y, u7, P7);
+										u7, P7 = nil, nil;
+										P7 = C[44];
+										P7 = c[P7];
+										u7 = G(u(P7, Y, c, Y7));
+										P7, c = nil, nil;
+										p = u(M, Y, z(u7));
+										M, u7 = nil, nil;
+										u7 = C[44];
+										P7, M = C[46], p;
+										u7 = q[u7];
+										u7 = u(u7, Y, q, P7);
+										c = C[19];
+										P7 = nil;
+										P7, E = C[44], C[20];
+										P7 = u7[P7];
+										P7 = u(P7, Y, u7, E);
+										u7, E = nil, nil;
+										M[c] = P7;
+										M, c, P7 = nil, nil, nil;
+										X = G(q);
+										Q = nil;
 									end;
 								else
-									if 3504864.0 > O then
-										vE = s(-60519);
-										j = c[e[1]];
-										C = k[50];
-										C = j[C];
-										UE = G(b(1, f(w)));
-										C = q(C, o, j, vE);
-										j, vE = nil, nil;
-										j, vE = k[50], s(-60581);
-										j = C[j];
-										j = q(j, o, C, vE);
-										C, vE = nil, nil;
-										C = k[50];
-										C = j[C];
-										vE = k[53];
-										C = q(C, o, j, vE);
-										j, vE = nil, nil;
-										j = s(-60535);
-										j = C[j];
-										j = q(j, o, C, f(UE));
-										j, C = nil, nil;
-										Z = G();
-										O = nil;
-									elseif O < 3703441.5 then
-										UE = c[e[1]];
-										i = k[58];
-										p = c[e[2]];
-										vE = p[i];
-										p, i = nil, nil;
-										p = k[7];
-										C = vE[p];
-										vE, p = nil, nil;
-										P, p = k[58], k[17];
-										OE = c[e[2]];
-										kE = OE[P];
-										OE, P = nil, nil;
-										OE = k[66];
-										i = kE[OE];
-										kE, OE = nil, nil;
-										vE = p .. i;
-										i, p = nil, nil;
-										p = k[13];
-										j = q(UE, o, C, vE, p);
-										UE, C, vE, p = nil, nil, nil, nil;
-										C, UE = k[30], k[50];
-										UE = j[UE];
-										UE = q(UE, o, j, C);
-										C = nil;
-										C = k[50];
-										C = UE[C];
-										vE = k[10];
-										C = q(C, o, UE, vE);
-										UE, vE = nil, nil;
-										UE, vE = k[15], 15359370 > 10304201;
-										C[UE] = vE;
-										C, UE, vE = nil, nil, nil;
-										j = nil;
-										j = nil;
-										O = nil;
-										Z = G();
-									elseif 3800195.0 > O then
-										C = k[23];
-										j = o[C];
-										C = nil;
-										C = k[4];
-										UE = j[C];
-										j, C = nil, nil;
-										C, p = s(-60515), k[24];
-										vE = o[p];
-										p = nil;
-										j = q(UE, o, C, vE);
-										UE, C, vE = nil, nil, nil;
-										C = k[74];
-										i = k[74];
-										p = o[i];
-										UE = j;
-										i = nil;
-										i = k[4];
-										vE = p[i];
-										p, i = nil, nil;
-										i = s(-60450);
-										p = q(vE, o, i);
-										vE, i = nil, nil;
-										UE[C] = p;
-										UE, C, p = nil, nil, nil;
-										UE, C, i = j, s(-60463), s(-60620);
-										p = o[i];
-										i = nil;
-										i = k[4];
-										vE = p[i];
-										p, i = nil, nil;
-										i, kE, OE = .2, .2, .2;
-										p = q(vE, o, i, kE, OE);
-										vE, i, kE, OE = nil, nil, nil, nil;
-										UE[C] = p;
-										UE, C, p = nil, nil, nil;
-										UE, kE, C = j, s(-60435), k[8];
-										i = o[kE];
-										kE = nil;
-										kE = k[8];
-										p = i[kE];
-										i, kE = nil, nil;
-										i = s(-60542);
-										vE = p[i];
-										p, i = nil, nil;
-										UE[C] = vE;
-										UE, C, vE = nil, nil, nil;
-										UE, vE, C = j, 1041344 <= 2379267, s(-60483);
-										UE[C] = vE;
-										UE, C, vE = nil, nil, nil;
-										C, vE, UE = s(-60548), 905569 >= 2627526, j;
-										UE[C] = vE;
-										UE, C, vE = nil, nil, nil;
-										C, UE, i = k[43], j, k[43];
-										p = o[i];
-										i = nil;
-										i = k[4];
-										vE = p[i];
-										p, i = nil, nil;
-										i = c[e[1]];
-										p = q(vE, o, i);
-										vE, i = nil, nil;
-										UE[C] = p;
-										UE, C, p = nil, nil, nil;
-										vE = s(-60565);
-										C = o[vE];
-										vE = nil;
-										vE = k[9];
-										UE = C[vE];
-										C, vE = nil, nil;
-										vE = c[e[2]];
-										C = q(UE, o, vE);
-										UE, C, vE = nil, nil, nil;
-										UE = k[77];
-										UE = j[UE];
-										UE = q(UE, o, j);
-										UE = nil;
-										j = nil;
-										j = nil;
-										Z = G();
-										O = nil;
+									if Q < 4573153.0 then
+										Y7 = C[37];
+										a = Y[Y7];
+										Y7 = nil;
+										Y7 = C[9];
+										s7 = a[Y7];
+										a, Y7 = nil, nil;
+										Y7 = h(-63217);
+										M = I[f[1]];
+										a = u(s7, Y, Y7, M);
+										s7, Y7, M = nil, nil, nil;
+										s7, M, Y7 = a, C[28], C[34];
+										s7[Y7] = M;
+										s7, Y7, M = nil, nil, nil;
+										Y7, s7, M = C[7], a, h(-63132);
+										s7[Y7] = M;
+										s7, Y7, M = nil, nil, nil;
+										a = nil;
+										a = nil;
+										Q = 8448773;
+									elseif Q < 4766164.5 then
+										Q = nil;
+										X = G();
+									elseif 4824607.5 > Q then
+										Y7, s7 = 13203838 >= 2162531, k[1];
+										a = s7 == Y7;
+										Y7 = nil;
+										Q = a and 10896716 or 14591087;
+										a = nil;
 									else
-										UE = s(-60525);
-										Z = G(UE);
-										UE = nil;
-										O = nil;
+										s7 = I[f[1]];
+										Q = s7 and 4752385 or 12217444;
+										s7 = nil;
 									end;
 								end;
 							else
-								if O < 7054782.0 then
-									if O < 4916139.5 then
-										UE = c[e[1]];
-										p = c[e[2]];
-										i = k[32];
-										vE = p[i];
-										p, i = nil, nil;
-										p = k[7];
-										C = vE[p];
-										vE, p = nil, nil;
-										P = k[32];
-										OE = c[e[2]];
-										p = k[17];
-										kE = OE[P];
-										OE, P = nil, nil;
-										OE = k[66];
-										i = kE[OE];
-										kE, OE = nil, nil;
-										vE = p .. i;
-										i, p = nil, nil;
-										p = k[13];
-										j = q(UE, o, C, vE, p);
-										UE, C, vE, p = nil, nil, nil, nil;
-										C, UE = k[30], k[50];
-										UE = j[UE];
-										UE = q(UE, o, j, C);
-										C = nil;
-										vE, C = k[10], k[50];
-										C = UE[C];
-										C = q(C, o, UE, vE);
-										UE, vE = nil, nil;
-										vE, UE = 5463394 <= 13346918, k[15];
-										C[UE] = vE;
-										C, UE, vE = nil, nil, nil;
-										j = nil;
-										j = nil;
-										O = nil;
-										Z = G();
-									elseif O < 5910846.5 then
-										C, vE = k[36], k[16];
-										j = c[e[1]];
-										C = j[C];
-										C = q(C, o, j, vE);
-										j, vE = nil, nil;
-										UE = not C;
-										C = nil;
-										O = UE and 4326177 or 214092;
-										UE = nil;
-									elseif O < 6787598.5 then
-										O, C = 10042001, k[53];
-										j = C;
+								if Q < 6934445.5 then
+									if Q < 5950369.0 then
+										s7 = I[f[1]];
+										Y7, p = h(-63125), C[65];
+										q = Y[p];
+										p = nil;
+										p = C[23];
+										M = q[p];
+										q, p = nil, nil;
+										a = C[54];
+										a = s7[a];
+										a = u(a, Y, s7, Y7, M);
+										a, s7, Y7, M = nil, nil, nil, nil;
+										X = G();
+										Q = nil;
+									elseif Q < 6324476.5 then
+										s7 = h(-63220);
+										X = G(s7);
+										s7 = nil;
+										Q = nil;
+									elseif Q < 6722028.5 then
+										L = C[37];
+										r = Y[L];
+										L = nil;
+										L = C[9];
+										E = r[L];
+										r, L = nil, nil;
+										L = h(-63269);
+										B = I[p];
+										r = u(E, Y, L, B);
+										E, L, B = nil, nil, nil;
+										I[n] = r;
+										r = nil;
+										r, L = C[34], C[43];
+										E = I[n];
+										E[r] = L;
+										E, r, L = nil, nil, nil;
+										Q = 5232497;
 									else
-										C = k[24];
-										j = o[C];
-										C = nil;
-										C, vE = k[33], k[73];
-										C = j[C];
-										C = q(C, o, j, vE);
-										j, vE = nil, nil;
-										j = nil;
-										UE = C == j;
-										j, C = nil, nil;
-										O = UE and 3841943 or 3028114;
-										UE = nil;
+										a = I[f[1]];
+										Y7 = h(-63098);
+										s7 = a[Y7];
+										a, Y7 = nil, nil;
+										a, Y7 = C[44], h(-63254);
+										a = s7[a];
+										a = u(a, Y, s7, Y7);
+										s7, Y7 = nil, nil;
+										s7, q = C[38], C[32];
+										M = Y[q];
+										q = nil;
+										p = I[f[2]];
+										c = G(u(p, Y));
+										p = nil;
+										q = C[44];
+										q = M[q];
+										q = u(q, Y, M, z(c));
+										M, c = nil, nil;
+										p, M = h(-63197), C[44];
+										M = q[M];
+										M = u(M, Y, q, p);
+										q, p = nil, nil;
+										q, p = C[44], h(-63257);
+										q = M[q];
+										q = u(q, Y, M, p);
+										M, p = nil, nil;
+										p, M = C[70], C[44];
+										M = q[M];
+										M = u(M, Y, q, p);
+										q, p = nil, nil;
+										q = C[38];
+										Y7 = M[q];
+										M, q = nil, nil;
+										a[s7] = Y7;
+										a, s7, Y7 = nil, nil, nil;
+										Q = 4972562;
 									end;
 								else
-									if O < 7258963.5 then
-										j, UE = s(-60447), w[1];
-										j = UE[j];
-										i = k[69];
-										j = q(j, o, UE);
-										vE, C = k[69], j;
-										p = UE[i];
-										i = nil;
-										C[vE] = p;
-										C, vE, p = nil, nil, nil;
-										Z = G(j);
-										O = nil;
-									elseif O < 7322128.5 then
-										UE = c[e[1]];
-										O = UE and 2948230 or 13599171;
-										UE = nil;
+									if Q < 7468882.0 then
+										Y7 = h(-63261);
+										s7 = I[f[1]];
+										a = u(s7, Y, Y7);
+										s7, a, Y7 = nil, nil, nil;
+										X = G();
+										Q = nil;
+									elseif 8088166.0 > Q then
+										s7 = I[f[1]];
+										q = I[f[2]];
+										p = C[6];
+										M = q[p];
+										q, p = nil, nil;
+										q = C[34];
+										Y7 = M[q];
+										M, q = nil, nil;
+										P7, q = C[6], C[11];
+										u7 = I[f[2]];
+										c = u7[P7];
+										u7, P7 = nil, nil;
+										u7 = C[60];
+										p = c[u7];
+										c, u7 = nil, nil;
+										M = q .. p;
+										p, q = nil, nil;
+										q = h(-63206);
+										a = u(s7, Y, Y7, M, q);
+										s7, Y7, M, q = nil, nil, nil, nil;
+										a = nil;
+										a = nil;
+										X = G();
+										Q = nil;
 									else
-										UE = c[e[1]];
-										O = UE and 13244520 or 9259395;
-										UE = nil;
+										a, Y7, c = k[2], k[3], 1;
+										p = c - Y7;
+										s7 = k[1];
+										c = nil;
+										q = p * s7;
+										p = nil;
+										p = Y7 * a;
+										M = q + p;
+										p, q = nil, nil;
+										X = G(M);
+										M = nil;
+										Q = nil;
 									end;
 								end;
 							end;
 						end;
 					else
-						if 10591849.5 > O then
-							if 9317465.5 > O then
-								if O > 8763724.0 then
-									if O < 9028818.5 then
-										C = s(-60489);
-										j = c[e[1]];
-										UE = j[C];
-										j, C = nil, nil;
-										C, j = s(-60611), k[50];
-										j = UE[j];
-										j = q(j, o, UE, C);
-										UE, C = nil, nil;
-										p, UE = k[24], k[43];
-										vE = o[p];
-										p = nil;
-										i = c[e[2]];
-										kE = G(q(i, o));
-										i = nil;
-										p = k[50];
-										p = vE[p];
-										p = q(p, o, vE, f(kE));
-										vE, kE = nil, nil;
-										vE, i = k[50], s(-60613);
-										vE = p[vE];
-										vE = q(vE, o, p, i);
-										p, i = nil, nil;
-										p = k[50];
-										p = vE[p];
-										i = s(-60567);
-										p = q(p, o, vE, i);
-										vE, i = nil, nil;
-										vE, i = k[50], k[38];
-										vE = p[vE];
-										vE = q(vE, o, p, i);
-										p, i = nil, nil;
-										p = k[43];
-										C = vE[p];
-										vE, p = nil, nil;
-										j[UE] = C;
-										j, UE, C = nil, nil, nil;
-										O = 12533795;
-									elseif 9171850.5 > O then
-										UE = nil;
-										UE = nil;
-										Z = G();
-										O = nil;
+						if 12063117.5 > Q then
+							if Q < 10282283.0 then
+								if Q < 8732201.0 then
+									if 8331906.5 > Q then
+										M, s7 = C[65], k[1];
+										Y7 = Y[M];
+										M = nil;
+										M = h(-63203);
+										a = Y7[M];
+										Y7, M = nil, nil;
+										Y7 = G(u(a, Y, s7));
+										a = nil;
+										X = G(z(Y7));
+										Y7 = nil;
+										Q = nil;
+									elseif Q < 8406948.5 then
+										L = C[43];
+										E = I[p];
+										r = C[44];
+										r = E[r];
+										r = u(r, Y, E, L);
+										E, L = nil, nil;
+										I[n] = r;
+										r = nil;
+										Q = 5232497;
+									elseif 8431984.5 > Q then
+										s7 = I[f[1]];
+										q, a = C[65], C[22];
+										M = Y[q];
+										q = nil;
+										q = C[23];
+										Y7 = M[q];
+										M, q = nil, nil;
+										s7[a] = Y7;
+										s7, a, Y7 = nil, nil, nil;
+										q = C[65];
+										s7 = I[f[1]];
+										M = Y[q];
+										a = C[72];
+										q = nil;
+										q = C[23];
+										Y7 = M[q];
+										M, q = nil, nil;
+										s7[a] = Y7;
+										s7, a, Y7 = nil, nil, nil;
+										a = C[40];
+										s7 = I[f[1]];
+										Y7 = 1;
+										s7[a] = Y7;
+										s7, a, Y7 = nil, nil, nil;
+										X = G();
+										Q = nil;
 									else
-										j = c[e[2]];
-										C = s(-60626);
-										UE = j[C];
-										j, C = nil, nil;
-										j = s(-60488);
-										j = UE[j];
-										C = X(15766582, { e[3] }, o);
-										j = q(j, o, UE, C);
-										UE, C = nil, nil;
-										c[e[1]] = j;
-										j = nil;
-										Z = G();
-										O = nil;
+										X = G();
+										Q = nil;
 									end;
 								else
-									if 7772771.0 > O then
-										YE = r(10414829, { y }, o);
-										sE = E();
-										u = X(1310614, { OE }, o);
-										c[sE] = u;
-										u = nil;
-										u = L(14380416, {}, o);
-										Y = K(6891722, {}, o);
-										B = r(9510396, {}, o);
-										W = r(14280117, {}, o);
-										iE = E();
-										c[iE] = Y;
-										Y = nil;
-										RE = v(7217842, {}, o);
-										Y = E();
-										c[Y] = RE;
-										RE = nil;
-										RE = E();
-										d = J(3361292, { i }, o);
-										c[RE] = d;
-										d = nil;
-										CE = Q(693949, { Y, vE, i }, o);
-										l = E();
-										d = v(1962771, {}, o);
-										c[l] = CE;
-										CE = nil;
-										F = E();
-										CE = nil;
-										c[F] = CE;
-										CE = nil;
-										m = L(7344172, { F, p, j }, o);
-										CE = E();
-										c[CE] = m;
-										m = nil;
-										m = E();
-										V = K(7300085, { F }, o);
-										c[m] = V;
-										V = nil;
-										T = k[9];
-										V = o[T];
-										T = nil;
-										ME = k[76];
-										pE = o[ME];
-										S = 1;
-										ME = nil;
-										ME, FE = k[48], k[28];
-										ME = pE[ME];
-										ME = q(ME, o, pE, FE);
-										pE, FE = nil, nil;
-										pE = k[44];
-										h = ME[pE];
-										ME, pE = nil, nil;
-										EE = S * h;
-										h, S = nil, nil;
-										T = q(V, o, EE);
-										V, T, EE = nil, nil, nil;
-										T, V, EE = k[56], k[68], s(-60549);
-										V = KE[V];
-										V = q(V, o, KE, T, EE);
-										T, EE = nil, nil;
-										EE = k[56];
-										T = k[64];
-										T = V[T];
-										T = q(T, o, V, EE);
-										T, EE = nil, nil;
-										I, pE, S = s(-60437), k[71], k[65];
-										bE = c[vE];
-										FE, h = s(-60472), s(-60494);
-										TE = bE[I];
-										bE, I = nil, nil;
-										ME = FE .. TE;
-										TE, FE = nil, nil;
-										EE = { [S] = h, [pE] = ME };
-										h, S, ME, pE = nil, nil, nil, nil;
-										T = s(-60562);
-										T = V[T];
-										T = q(T, o, V, EE);
-										T, EE = nil, nil;
-										EE = k[9];
-										T = o[EE];
-										EE = nil;
-										h, FE = 1, k[76];
-										ME = o[FE];
-										FE = nil;
-										FE = k[48];
-										FE = ME[FE];
-										TE = k[28];
-										FE = q(FE, o, ME, TE);
-										ME, TE = nil, nil;
-										ME = k[44];
-										pE = FE[ME];
-										FE, ME = nil, nil;
-										S = h * pE;
-										pE, h = nil, nil;
-										EE = q(T, o, S);
-										T, EE, S = nil, nil, nil;
-										T, S = k[68], s(-60631);
-										T = KE[T];
-										EE = k[2];
-										T = q(T, o, KE, EE, S);
-										EE, S = nil, nil;
-										S = k[2];
-										EE = k[64];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										h, ME, pE = k[7], k[63], s(-60516);
-										FE = X(9375536, { vE }, o);
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										ME, h = k[63], k[7];
-										FE = r(563172, { vE }, o);
-										pE = s(-60622);
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										ME, h = k[63], k[7];
-										FE = X(14500831, { vE, iE, OE }, o);
-										pE = s(-60541);
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										S, EE = k[67], k[64];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										ME, h = k[63], k[7];
-										FE = X(10445656, { l, kE }, o);
-										pE = s(-60465);
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										h, ME, pE = k[7], k[63], s(-60555);
-										FE = L(243434, { l, kE }, o);
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										h, ME, pE = k[7], k[63], s(-60448);
-										FE = r(8378167, { l, kE }, o);
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										pE, h, ME = s(-60498), k[7], k[63];
-										FE = L(3648436, { l, kE }, o);
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										pE, h, ME = s(-60451), k[7], k[63];
-										FE = H(10121299, { l, kE }, o);
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										h, ME, pE = k[7], k[63], s(-60493);
-										FE = K(4694061, { l, kE }, o);
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										pE, ME = s(-60509), k[63];
-										FE = K(8554117, { l, kE }, o);
-										h = k[7];
-										S = { [h] = pE, [ME] = FE };
-										pE, h, FE, ME = nil, nil, nil, nil;
-										EE = k[70];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										S, EE = s(-60586), k[64];
-										EE = T[EE];
-										EE = q(EE, o, T, S);
-										EE, S = nil, nil;
-										S = k[9];
-										EE = o[S];
-										S = nil;
-										TE, pE = k[76], 1;
-										FE = o[TE];
-										TE = nil;
-										bE, TE = k[28], k[48];
-										TE = FE[TE];
-										TE = q(TE, o, FE, bE);
-										FE, bE = nil, nil;
-										FE = k[44];
-										ME = TE[FE];
-										TE, FE = nil, nil;
-										h = pE * ME;
-										ME, pE = nil, nil;
-										S = q(EE, o, h);
-										EE, S, h = nil, nil, nil;
-										S, EE = k[52], k[68];
-										EE = KE[EE];
-										h = s(-60497);
-										EE = q(EE, o, KE, S, h);
-										S, h = nil, nil;
-										S = k[64];
-										S = EE[S];
-										h = k[52];
-										S = q(S, o, EE, h);
-										S, h = nil, nil;
-										pE, ME, FE = k[7], s(-60511), k[63];
-										TE = K(1102161, {}, o);
-										h = { [pE] = ME, [FE] = TE };
-										ME, pE, TE, FE = nil, nil, nil, nil;
-										S = k[70];
-										S = EE[S];
-										S = q(S, o, EE, h);
-										S, h = nil, nil;
-										FE = k[63];
-										TE = L(10738043, { RE, iE }, o);
-										pE, ME = k[7], s(-60512);
-										h = { [pE] = ME, [FE] = TE };
-										ME, pE, TE, FE = nil, nil, nil, nil;
-										S = k[70];
-										S = EE[S];
-										S = q(S, o, EE, h);
-										S, h = nil, nil;
-										h = k[9];
-										S = o[h];
-										h = nil;
-										ME, bE = 1, k[76];
-										TE = o[bE];
-										bE = nil;
-										I, bE = k[28], k[48];
-										bE = TE[bE];
-										bE = q(bE, o, TE, I);
-										TE, I = nil, nil;
-										TE = k[44];
-										FE = bE[TE];
-										bE, TE = nil, nil;
-										pE = ME * FE;
-										FE, ME = nil, nil;
-										h = q(S, o, pE);
-										S, h, pE = nil, nil, nil;
-										h, pE, S = k[35], s(-60443), k[68];
-										S = KE[S];
-										S = q(S, o, KE, h, pE);
-										h, pE = nil, nil;
-										h = k[64];
-										h = S[h];
-										pE = k[35];
-										h = q(h, o, S, pE);
-										h, pE = nil, nil;
-										FE, TE = s(-60508), k[63];
-										bE = v(860773, { j }, o);
-										ME = k[7];
-										pE = { [ME] = FE, [TE] = bE };
-										FE, ME, bE, TE = nil, nil, nil, nil;
-										h = k[70];
-										h = S[h];
-										h = q(h, o, S, pE);
-										h, pE = nil, nil;
-										ME = k[7];
-										wE = g(15287737, { CE, m }, o);
-										I, TE, bE, FE = k[63], s(-60438), 75447 >= 633020, s(-60608);
-										pE = { [ME] = FE, [TE] = bE, [I] = wE };
-										FE, ME, bE, TE, wE, I = nil, nil, nil, nil, nil, nil;
-										h = s(-60524);
-										h = S[h];
-										h = q(h, o, S, pE);
-										h, pE = nil, nil;
-										pE = k[9];
-										h = o[pE];
-										pE = nil;
-										I = k[76];
-										bE = o[I];
-										FE = 1;
-										I = nil;
-										I = k[48];
-										I = bE[I];
-										wE = k[28];
-										I = q(I, o, bE, wE);
-										bE, wE = nil, nil;
-										bE = k[44];
-										TE = I[bE];
-										I, bE = nil, nil;
-										ME = FE * TE;
-										TE, FE = nil, nil;
-										pE = q(h, o, ME);
-										h, pE, ME = nil, nil, nil;
-										h = k[68];
-										h = KE[h];
-										pE, ME = k[20], s(-60522);
-										h = q(h, o, KE, pE, ME);
-										pE, ME = nil, nil;
-										ME, pE = k[20], k[64];
-										pE = h[pE];
-										pE = q(pE, o, h, ME);
-										pE, ME = nil, nil;
-										bE, TE = k[63], s(-60605);
-										I = v(12674855, { sE }, o);
-										FE = k[7];
-										ME = { [FE] = TE, [bE] = I };
-										TE, FE, I, bE = nil, nil, nil, nil;
-										pE = k[70];
-										pE = h[pE];
-										pE = q(pE, o, h, ME);
-										pE, ME = nil, nil;
-										bE, FE = k[63], k[7];
-										I = r(2451780, { sE }, o);
-										TE = s(-60557);
-										ME = { [FE] = TE, [bE] = I };
-										TE, FE, I, bE = nil, nil, nil, nil;
-										pE = k[70];
-										pE = h[pE];
-										pE = q(pE, o, h, ME);
-										pE, ME = nil, nil;
-										TE, bE = s(-60606), k[63];
-										I = X(1589826, { sE }, o);
-										FE = k[7];
-										ME = { [FE] = TE, [bE] = I };
-										TE, FE, I, bE = nil, nil, nil, nil;
-										pE = k[70];
-										pE = h[pE];
-										pE = q(pE, o, h, ME);
-										pE, ME = nil, nil;
-										pE = q(YE, o);
-										pE = nil;
-										C = nil;
-										C = nil;
-										vE = M(vE);
-										vE = nil;
-										j = M(j);
-										j = nil;
-										p = M(p);
-										p = nil;
-										i = M(i);
-										i = nil;
-										OE = M(OE);
-										OE = nil;
-										P = nil;
-										P = nil;
-										kE = M(kE);
-										kE = nil;
-										KE = nil;
-										KE = nil;
-										y = M(y);
-										y = nil;
-										YE = nil;
-										YE = nil;
-										sE = M(sE);
-										sE = nil;
-										u = nil;
-										u = nil;
-										B = nil;
-										B = nil;
-										W = nil;
-										W = nil;
-										iE = M(iE);
-										iE = nil;
-										Y = M(Y);
-										Y = nil;
-										RE = M(RE);
-										RE = nil;
-										d = nil;
-										d = nil;
-										l = M(l);
-										l = nil;
-										F = M(F);
-										F = nil;
-										CE = M(CE);
-										CE = nil;
-										m = M(m);
-										m = nil;
-										V = nil;
-										V = nil;
-										T = nil;
-										T = nil;
-										EE = nil;
-										EE = nil;
-										S = nil;
-										S = nil;
-										h = nil;
-										h = nil;
-										O = nil;
-										Z = G();
-									elseif O < 8167174.5 then
-										u = k[23];
-										sE = o[u];
-										u = nil;
-										u = k[4];
-										YE = sE[u];
-										sE, u = nil, nil;
-										u = s(-60527);
-										B = c[i];
-										sE = q(YE, o, u, B);
-										YE, u, B = nil, nil, nil;
-										c[y] = sE;
-										sE = nil;
-										sE = k[7];
-										YE = c[y];
-										u = k[39];
-										YE[sE] = u;
-										YE, sE, u = nil, nil, nil;
-										O = 7589360;
-									elseif O < 8466142.0 then
-										UE = c[e[1]];
-										p = c[e[2]];
-										i = k[26];
-										vE = p[i];
-										p, i = nil, nil;
-										p = k[7];
-										C = vE[p];
-										vE, p = nil, nil;
-										p = k[17];
-										OE = c[e[2]];
-										P = k[26];
-										kE = OE[P];
-										OE, P = nil, nil;
-										OE = k[66];
-										i = kE[OE];
-										kE, OE = nil, nil;
-										vE = p .. i;
-										i, p = nil, nil;
-										p = s(-60441);
-										j = q(UE, o, C, vE, p);
-										UE, C, vE, p = nil, nil, nil, nil;
-										j = nil;
-										j = nil;
-										O = nil;
-										Z = G();
+									if 9028040.0 > Q then
+										p = C[69];
+										s7 = I[f[1]];
+										q = I[f[2]];
+										M = q[p];
+										q, p = nil, nil;
+										q = C[34];
+										Y7 = M[q];
+										M, q = nil, nil;
+										u7 = I[f[2]];
+										q, P7 = C[11], C[69];
+										c = u7[P7];
+										u7, P7 = nil, nil;
+										u7 = C[60];
+										p = c[u7];
+										c, u7 = nil, nil;
+										M = q .. p;
+										p, q = nil, nil;
+										q = C[5];
+										a = u(s7, Y, Y7, M, q);
+										s7, Y7, M, q = nil, nil, nil, nil;
+										a = nil;
+										a = nil;
+										X = G();
+										Q = nil;
+									elseif 9505043.5 > Q then
+										a = C[32];
+										s7 = Y[a];
+										a = nil;
+										Y7, a, M = C[41], C[54], 6097722 < 13887344;
+										a = s7[a];
+										a = u(a, Y, s7, Y7, M);
+										a, s7, Y7, M = nil, nil, nil, nil;
+										a = C[32];
+										s7 = Y[a];
+										a = nil;
+										M, Y7, a = 60, h(-63283), C[54];
+										a = s7[a];
+										a = u(a, Y, s7, Y7, M);
+										a, s7, Y7, M = nil, nil, nil, nil;
+										Q = nil;
+										X = G();
 									else
-										i = k[1];
-										UE = c[e[1]];
-										p = c[e[2]];
-										vE = p[i];
-										p, i = nil, nil;
-										p = k[7];
-										C = vE[p];
-										vE, p = nil, nil;
-										P, p = k[1], k[17];
-										OE = c[e[2]];
-										kE = OE[P];
-										OE, P = nil, nil;
-										OE = k[66];
-										i = kE[OE];
-										kE, OE = nil, nil;
-										vE = p .. i;
-										i, p = nil, nil;
-										p = k[13];
-										j = q(UE, o, C, vE, p);
-										UE, C, vE, p = nil, nil, nil, nil;
-										C, UE = k[30], k[50];
-										UE = j[UE];
-										UE = q(UE, o, j, C);
-										C = nil;
-										C, vE = k[50], k[72];
-										C = UE[C];
-										C = q(C, o, UE, vE);
-										UE, vE = nil, nil;
-										UE, vE = k[15], 7036802 ~= 9868169;
-										C[UE] = vE;
-										C, UE, vE = nil, nil, nil;
-										UE, C = k[50], k[30];
-										UE = j[UE];
-										UE = q(UE, o, j, C);
-										C = nil;
-										vE, C = k[72], k[50];
-										C = UE[C];
-										C = q(C, o, UE, vE);
-										UE, vE = nil, nil;
-										UE, i = s(-60431), s(-60484);
-										p = o[i];
-										i = nil;
-										i = k[4];
-										vE = p[i];
-										p, i = nil, nil;
-										kE, i = 0, 120;
-										p = q(vE, o, i, kE);
-										vE, i, kE = nil, nil, nil;
-										C[UE] = p;
-										C, UE, p = nil, nil, nil;
-										j = nil;
-										j = nil;
-										Z = G();
-										O = nil;
+										Y7, s7 = C[14], k;
+										a = Y[Y7];
+										Y7 = nil;
+										Y7 = C[30];
+										Y7 = a[Y7];
+										M = C[29];
+										Y7 = u(Y7, Y, a, M);
+										a, M = nil, nil;
+										M = h(-63241);
+										a = Y7[M];
+										M = nil;
+										M = b();
+										I[M] = a;
+										a = nil;
+										q = C[14];
+										a = Y[q];
+										q = nil;
+										p, q = C[48], C[30];
+										q = a[q];
+										q = u(q, Y, a, p);
+										a, p = nil, nil;
+										a = b();
+										I[a] = q;
+										q = nil;
+										p = C[14];
+										q = Y[p];
+										p = nil;
+										c, p = h(-63167), C[30];
+										p = q[p];
+										p = u(p, Y, q, c);
+										q, c = nil, nil;
+										q = b();
+										I[q] = p;
+										p = nil;
+										c = C[14];
+										p = Y[c];
+										c = nil;
+										c = C[30];
+										c = p[c];
+										u7 = h(-63101);
+										c = u(c, Y, p, u7);
+										p, u7 = nil, nil;
+										p = b();
+										I[p] = c;
+										c = nil;
+										u7 = C[75];
+										c = Y[u7];
+										u7 = nil;
+										E = C[14];
+										P7 = Y[E];
+										E = nil;
+										Z, n = h(-63236), C[1];
+										n = P7[n];
+										E = G(u(n, Y, P7, Z));
+										n, P7, Z = nil, nil, nil;
+										u7 = u(c, Y, z(E));
+										c, E = nil, nil;
+										c = u(u7, Y);
+										u7 = nil;
+										u7 = b();
+										I[u7] = c;
+										c = nil;
+										P7 = C[25];
+										c = Y[P7];
+										P7 = nil;
+										E = I[p];
+										Z = C[44];
+										Z = E[Z];
+										n = h(-63290);
+										Z = u(Z, Y, E, n);
+										E, n = nil, nil;
+										r, n = C[44], h(-63122);
+										r = Z[r];
+										E = G(u(r, Y, Z, n));
+										r, Z, n = nil, nil, nil;
+										P7 = u(c, Y, z(E));
+										c, E = nil, nil;
+										E = C[25];
+										c = Y[E];
+										E = nil;
+										r, n = h(-63226), C[44];
+										Z = I[p];
+										n = Z[n];
+										n = u(n, Y, Z, r);
+										Z, r = nil, nil;
+										r, L = C[74], C[44];
+										L = n[L];
+										Z = G(u(L, Y, n, r));
+										L, n, r = nil, nil, nil;
+										E = u(c, Y, z(Z));
+										c, Z = nil, nil;
+										c = b();
+										I[c] = E;
+										E = nil;
+										r, g7, Q7, O7 = C[34], h(-63238), C[13], h(-63201);
+										E = I[u7];
+										h7, S, D7, B, R, F7, e, l, w, t, C7, o, v7, i, V, H7, L, g, b7, z7, K = h(-63159), h(-63287), h(-63172), h(-63195), 1636498 >= 12441931, 0, h(-63209), h(-63205), h(-63297), h(-63131), 7816992 < 3886285, h(-63175), C[31], 16011850 > 2966719, h(-63186), h(-63222), C[31], h(-63188), h(-63259), h(-63265), C[49];
+										w7 = { [Q7] = i, [S] = v7, [K] = w };
+										i, Q7, v7, S, w, K = nil, nil, nil, nil, nil, nil;
+										y, w, v7, S, K, d = h(-63191), h(-63204), 650233 > 5234850, C[13], h(-63168), 11634692 >= 1349706;
+										i, Q7 = { [S] = v7, [K] = w, [y] = d }, h(-63192);
+										v7, S, w, K, d, y = nil, nil, nil, nil, nil, nil;
+										S, f7, s, y, j, K, d, y7, W, v7, m, N7, K7, M7 = h(-63139), h(-63245), 16766326 ~= 9121099, C[10], C[49], h(-63260), h(-63095), h(-63268), h(-63294), 12228388 >= 3641183, h(-63185), h(-63263), h(-63223), h(-63107);
+										A7, X7, U, I7, k7 = { N7, f7 }, h(-63147), 4873219 <= 3562853, h(-63267), h(-63278);
+										N7, f7 = nil, nil;
+										w = {
+												[y] = d,
+												[M7] = X7,
+												[K7] = I7,
+												[j] = m,
+												[k7] = s,
+												[y7] = U,
+												[W] = A7,
+											};
+										d, y, X7, M7, I7, K7, m, j, s, k7, U, y7, A7, W = nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil;
+										n = {
+												[r] = L,
+												[B] = F7,
+												[l] = h7,
+												[o] = g7,
+												[D7] = z7,
+												[V] = g,
+												[H7] = b7,
+												[t] = R,
+												[e] = C7,
+												[O7] = w7,
+												[Q7] = i,
+												[S] = v7,
+												[K] = w,
+											};
+										L, r, F7, B, h7, l, g7, o, z7, D7, g, V, b7, H7, R, t, C7, e, w7, O7, i, Q7, v7, S, w, K = nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil, nil;
+										Z = h(-63282);
+										Z = E[Z];
+										Z = u(Z, Y, E, n);
+										E, n = nil, nil;
+										n = C[15];
+										E = Y[n];
+										n = nil;
+										l = C[14];
+										F7 = Y[l];
+										L = 1;
+										l = nil;
+										l, h7 = C[30], C[64];
+										l = F7[l];
+										l = u(l, Y, F7, h7);
+										F7, h7 = nil, nil;
+										F7 = C[51];
+										B = l[F7];
+										l, F7 = nil, nil;
+										r = L * B;
+										B, L = nil, nil;
+										n = u(E, Y, r);
+										E, n, r = nil, nil, nil;
+										n = b();
+										E = nil;
+										I[n] = E;
+										E = nil;
+										B, L = C[43], C[66];
+										r = I[p];
+										L = r[L];
+										L = u(L, Y, r, B);
+										r, B = nil, nil;
+										E = not L;
+										L = nil;
+										Q = E and 6555903 or 8398701;
+										E = nil;
 									end;
 								end;
 							else
-								if O > 10081650.0 then
-									if O < 10268064.0 then
-										UE = c[e[1]];
-										p = c[e[2]];
-										i = k[29];
-										vE = p[i];
-										p, i = nil, nil;
-										p = k[7];
-										C = vE[p];
-										vE, p = nil, nil;
-										P = k[29];
-										OE = c[e[2]];
-										kE = OE[P];
-										p = k[17];
-										OE, P = nil, nil;
-										OE = k[66];
-										i = kE[OE];
-										kE, OE = nil, nil;
-										vE = p .. i;
-										i, p = nil, nil;
-										p = k[13];
-										j = q(UE, o, C, vE, p);
-										UE, C, vE, p = nil, nil, nil, nil;
-										UE, C = k[50], k[30];
-										UE = j[UE];
-										UE = q(UE, o, j, C);
-										C = nil;
-										C = k[50];
-										C = UE[C];
-										vE = k[10];
-										C = q(C, o, UE, vE);
-										UE, vE = nil, nil;
-										UE, vE = k[15], 7207003 ~= 14407725;
-										C[UE] = vE;
-										C, UE, vE = nil, nil, nil;
-										j = nil;
-										j = nil;
-										O = nil;
-										Z = G();
-									elseif 10430242.5 > O then
-										C, vE = k[36], k[59];
-										j = c[e[1]];
-										C = j[C];
-										C = q(C, o, j, vE);
-										j, vE = nil, nil;
-										UE = not C;
-										C = nil;
-										O = UE and 13441224 or 5138218;
-										UE = nil;
+								if Q > 11846652.5 then
+									if Q < 11897214.5 then
+										s7 = I[f[1]];
+										a, q = C[72], C[65];
+										M = Y[q];
+										q = nil;
+										q = C[23];
+										Y7 = M[q];
+										M, q = nil, nil;
+										s7[a] = Y7;
+										s7, a, Y7 = nil, nil, nil;
+										q = C[65];
+										s7 = I[f[1]];
+										M = Y[q];
+										a = C[22];
+										q = nil;
+										q = C[23];
+										Y7 = M[q];
+										M, q = nil, nil;
+										s7[a] = Y7;
+										s7, a, Y7 = nil, nil, nil;
+										s7 = I[f[1]];
+										Y7, a = 1, C[40];
+										s7[a] = Y7;
+										s7, a, Y7 = nil, nil, nil;
+										X = G();
+										Q = nil;
+									elseif 11929155.0 > Q then
+										s7 = I[f[1]];
+										p = C[76];
+										q = I[f[2]];
+										M = q[p];
+										q, p = nil, nil;
+										q = C[34];
+										Y7 = M[q];
+										M, q = nil, nil;
+										u7 = I[f[2]];
+										q, P7 = C[11], C[76];
+										c = u7[P7];
+										u7, P7 = nil, nil;
+										u7 = C[60];
+										p = c[u7];
+										c, u7 = nil, nil;
+										M = q .. p;
+										p, q = nil, nil;
+										q = C[5];
+										a = u(s7, Y, Y7, M, q);
+										s7, Y7, M, q = nil, nil, nil, nil;
+										s7, Y7 = C[44], C[27];
+										s7 = a[s7];
+										s7 = u(s7, Y, a, Y7);
+										Y7 = nil;
+										M, Y7 = C[67], C[44];
+										Y7 = s7[Y7];
+										Y7 = u(Y7, Y, s7, M);
+										s7, M = nil, nil;
+										M, s7 = 16227894 ~= 7829966, C[52];
+										Y7[s7] = M;
+										Y7, s7, M = nil, nil, nil;
+										a = nil;
+										a = nil;
+										Q = nil;
+										X = G();
 									else
-										UE = c[e[1]];
-										p = c[e[2]];
-										i = k[19];
-										vE = p[i];
-										p, i = nil, nil;
-										p = k[7];
-										C = vE[p];
-										vE, p = nil, nil;
-										P, p = k[19], k[17];
-										OE = c[e[2]];
-										kE = OE[P];
-										OE, P = nil, nil;
-										OE = k[66];
-										i = kE[OE];
-										kE, OE = nil, nil;
-										vE = p .. i;
-										i, p = nil, nil;
-										p = k[13];
-										j = q(UE, o, C, vE, p);
-										UE, C, vE, p = nil, nil, nil, nil;
-										UE, C = k[50], k[30];
-										UE = j[UE];
-										UE = q(UE, o, j, C);
-										C = nil;
-										vE, C = k[10], k[50];
-										C = UE[C];
-										C = q(C, o, UE, vE);
-										UE, vE = nil, nil;
-										UE, vE = k[15], 1537259 <= 16435348;
-										C[UE] = vE;
-										C, UE, vE = nil, nil, nil;
-										j = nil;
-										j = nil;
-										Z = G();
-										O = nil;
+										p = C[26];
+										s7 = I[f[1]];
+										q = I[f[2]];
+										M = q[p];
+										q, p = nil, nil;
+										q = C[34];
+										Y7 = M[q];
+										M, q = nil, nil;
+										P7 = C[26];
+										u7 = I[f[2]];
+										q = C[11];
+										c = u7[P7];
+										u7, P7 = nil, nil;
+										u7 = C[60];
+										p = c[u7];
+										c, u7 = nil, nil;
+										M = q .. p;
+										p, q = nil, nil;
+										q = C[5];
+										a = u(s7, Y, Y7, M, q);
+										s7, Y7, M, q = nil, nil, nil, nil;
+										Y7, s7 = C[27], C[44];
+										s7 = a[s7];
+										s7 = u(s7, Y, a, Y7);
+										Y7 = nil;
+										M, Y7 = C[67], C[44];
+										Y7 = s7[Y7];
+										Y7 = u(Y7, Y, s7, M);
+										s7, M = nil, nil;
+										M, s7 = 16587066 >= 8144275, C[52];
+										Y7[s7] = M;
+										Y7, s7, M = nil, nil, nil;
+										a = nil;
+										a = nil;
+										X = G();
+										Q = nil;
 									end;
 								else
-									if 9442966.0 > O then
-										i = k[46];
-										UE = c[e[1]];
-										C = s(-60492);
-										p = o[i];
-										i = nil;
-										i = k[41];
-										vE = p[i];
-										p, i = nil, nil;
-										j = k[12];
-										j = UE[j];
-										j = q(j, o, UE, C, vE);
-										j, UE, C, vE = nil, nil, nil, nil;
-										Z = G();
-										O = nil;
-									elseif O < 9645484.5 then
-										UE, vE = w[1], k[46];
-										C = o[vE];
-										vE = nil;
-										vE = s(-60430);
-										j = C[vE];
-										C, vE = nil, nil;
-										C = G(q(j, o, UE));
-										j = nil;
-										Z = G(f(C));
-										C = nil;
-										O = nil;
-									elseif 9911287.0 > O then
-										Z = G();
-										O = nil;
+									if 10609652.5 > Q then
+										s7 = I[f[1]];
+										Q = s7 and 1917372 or 11809156;
+										s7 = nil;
+									elseif 10760545.5 > Q then
+										a = I[f[1]];
+										n, E, c, u7, Z, s7, p, P7, q = h(-63103), 5, C[4], h(-63126), C[3], k[1], h(-63200), C[18], C[10];
+										M = {
+												[q] = p,
+												[c] = u7,
+												[P7] = E,
+												[Z] = n,
+											};
+										p, q, u7, c, E, P7, n, Z = nil, nil, nil, nil, nil, nil, nil, nil;
+										Y7 = C[57];
+										Y7 = a[Y7];
+										Y7 = u(Y7, Y, a, M);
+										Y7, a, M = nil, nil, nil;
+										Y7 = C[75];
+										a = Y[Y7];
+										Y7 = nil;
+										q = C[14];
+										M = Y[q];
+										q = nil;
+										p = C[1];
+										p = M[p];
+										q = G(u(p, Y, M, s7));
+										p, M = nil, nil;
+										Y7 = u(a, Y, z(q));
+										a, q = nil, nil;
+										a = u(Y7, Y);
+										Y7, a = nil, nil;
+										s7 = nil;
+										s7 = nil;
+										Q = nil;
+										X = G();
+									elseif 11352936.0 > Q then
+										a = I[f[1]];
+										Y7 = u(a, Y);
+										a, Y7 = nil, nil;
+										Q = 344536;
 									else
-										kE = k[34];
-										i = o[kE];
-										kE = nil;
-										YE = k[46];
-										P = o[YE];
-										YE = nil;
-										YE = s(-60540);
-										OE = P[YE];
-										P, YE = nil, nil;
-										P = q(OE, o, UE);
-										OE = nil;
-										OE = G(P);
-										P = nil;
-										kE = q(i, o, f(OE));
-										i, OE = nil, nil;
-										i = k[75];
-										i = kE[i];
-										i = q(i, o, kE);
-										kE = nil;
-										kE = k[14];
-										kE = i[kE];
-										P, OE = s(-60625), s(-60457);
-										kE = q(kE, o, i, OE, P);
-										i, OE, P = nil, nil, nil;
-										P, i = s(-60588), k[14];
-										i = kE[i];
-										OE = s(-60576);
-										i = q(i, o, kE, OE, P);
-										kE, OE, P = nil, nil, nil;
-										kE = k[75];
-										kE = i[kE];
-										kE = q(kE, o, i);
-										i = nil;
-										p = kE .. j;
-										kE = nil;
-										Z = G(p);
-										p = nil;
-										O = nil;
+										Q = nil;
+										X = G();
 									end;
 								end;
 							end;
 						else
-							if O < 13939644.0 then
-								if 13342872.0 > O then
-									if 11635919.0 > O then
-										UE = c[e[1]];
-										OE, C = k[24], s(-60553);
-										kE = o[OE];
-										OE = nil;
-										P = c[e[2]];
-										YE = G(q(P, o));
-										P = nil;
-										OE = k[36];
-										OE = kE[OE];
-										OE = q(OE, o, kE, f(YE));
-										kE, YE = nil, nil;
-										kE = s(-60458);
-										i = OE[kE];
-										OE, kE = nil, nil;
-										kE = s(-60568);
-										p = i[kE];
-										i, kE = nil, nil;
-										i = k[38];
-										vE = p[i];
-										p, i = nil, nil;
-										j = q(UE, o, C, vE);
-										UE, j, C, vE = nil, nil, nil, nil;
-										O = nil;
-										Z = G();
-									elseif O < 12604325.0 then
-										Z = G();
-										O = nil;
-									elseif O < 12959687.5 then
-										UE = c[e[1]];
-										C = s(-60467);
-										j = q(UE, o, C);
-										UE, j, C = nil, nil, nil;
-										O = nil;
-										Z = G();
+							if Q < 14583802.0 then
+								if Q > 12816070.5 then
+									if 13605160.0 > Q then
+										Y7 = h(-63249);
+										s7 = I[f[1]];
+										p = C[65];
+										q = Y[p];
+										p = nil;
+										p = C[23];
+										M = q[p];
+										q, p = nil, nil;
+										a = C[54];
+										a = s7[a];
+										a = u(a, Y, s7, Y7, M);
+										a, s7, Y7, M = nil, nil, nil, nil;
+										Q = nil;
+										X = G();
+									elseif Q < 14454828.5 then
+										Y7 = C[50];
+										a, Q = Y7, 733270;
 									else
-										Z = G();
-										O = nil;
+										Y7 = h(-63171);
+										s7 = I[f[1]];
+										u7 = C[32];
+										c = Y[u7];
+										u7 = nil;
+										P7 = I[f[2]];
+										E = G(u(P7, Y));
+										P7 = nil;
+										u7 = C[66];
+										u7 = c[u7];
+										u7 = u(u7, Y, c, z(E));
+										c, E = nil, nil;
+										c = h(-63296);
+										p = u7[c];
+										u7, c = nil, nil;
+										c = h(-63174);
+										q = p[c];
+										p, c = nil, nil;
+										p = C[70];
+										M = q[p];
+										q, p = nil, nil;
+										a = u(s7, Y, Y7, M);
+										s7, a, Y7, M = nil, nil, nil, nil;
+										X = G();
+										Q = nil;
 									end;
 								else
-									if O < 13486566.0 then
-										C = k[23];
-										j = o[C];
-										C = nil;
-										C = k[4];
-										UE = j[C];
-										j, C = nil, nil;
-										vE = c[e[1]];
-										C = s(-60584);
-										j = q(UE, o, C, vE);
-										UE, C, vE = nil, nil, nil;
-										C, UE, vE = k[7], j, k[59];
-										UE[C] = vE;
-										UE, C, vE = nil, nil, nil;
-										p, C, UE = k[24], k[54], j;
-										vE = o[p];
-										p = nil;
-										p, i = k[33], s(-60532);
-										p = vE[p];
-										p = q(p, o, vE, i);
-										vE, i = nil, nil;
-										UE[C] = p;
-										UE, C, p = nil, nil, nil;
-										j = nil;
-										j = nil;
-										O = 5138218;
-									elseif 13565539.5 > O then
-										j = c[e[2]];
-										C = q(j, o);
-										j, C = nil, nil;
-										O = 9084306;
+									if 12197824.5 > Q then
+										s7 = I[f[1]];
+										q = I[f[2]];
+										p = C[56];
+										M = q[p];
+										q, p = nil, nil;
+										q = C[34];
+										Y7 = M[q];
+										M, q = nil, nil;
+										P7 = C[56];
+										u7 = I[f[2]];
+										c = u7[P7];
+										q = C[11];
+										u7, P7 = nil, nil;
+										u7 = C[60];
+										p = c[u7];
+										c, u7 = nil, nil;
+										M = q .. p;
+										p, q = nil, nil;
+										q = C[5];
+										a = u(s7, Y, Y7, M, q);
+										s7, Y7, M, q = nil, nil, nil, nil;
+										Y7, s7 = C[27], C[44];
+										s7 = a[s7];
+										s7 = u(s7, Y, a, Y7);
+										Y7 = nil;
+										M, Y7 = C[67], C[44];
+										Y7 = s7[Y7];
+										Y7 = u(Y7, Y, s7, M);
+										s7, M = nil, nil;
+										s7, M = C[52], 7297802 <= 9395952;
+										Y7[s7] = M;
+										Y7, s7, M = nil, nil, nil;
+										a = nil;
+										a = nil;
+										X = G();
+										Q = nil;
+									elseif Q < 12337618.0 then
+										Y7 = h(-63104);
+										a = I[f[2]];
+										s7 = a[Y7];
+										a, Y7 = nil, nil;
+										a = h(-63277);
+										Y7 = J(11884149, { f[3] }, Y);
+										a = s7[a];
+										a = u(a, Y, s7, Y7);
+										s7, Y7 = nil, nil;
+										I[f[1]] = a;
+										a = nil;
+										X = G();
+										Q = nil;
+									elseif Q < 12604897.5 then
+										Y7 = h(-63110);
+										s7 = I[f[1]];
+										a = u(s7, Y, Y7);
+										s7, a, Y7 = nil, nil, nil;
+										Q = nil;
+										X = G();
 									else
-										O = nil;
-										Z = G();
+										s7 = b();
+										a = b();
+										I[s7] = k[1];
+										M = h(-63140);
+										I[a] = k[2];
+										Y7 = Y[M];
+										M = nil;
+										q = P(1731807, { s7, a }, Y);
+										M = u(Y7, Y, q);
+										Y7, M, q = nil, nil, nil;
+										s7 = D(s7);
+										s7 = nil;
+										a = D(a);
+										a = nil;
+										X = G();
+										Q = nil;
 									end;
 								end;
 							else
-								if O < 14894284.0 then
-									if 14330266.5 > O then
-										UE = E();
-										c[UE] = w[1];
-										j = E();
-										vE = s(-60486);
-										c[j] = w[2];
-										C = o[vE];
-										vE = nil;
-										p = v(3758447, { UE, j }, o);
-										vE = q(C, o, p);
-										C, vE, p = nil, nil, nil;
-										UE = M(UE);
-										UE = nil;
-										j = M(j);
-										j = nil;
-										O = nil;
-										Z = G();
-									elseif 14440623.5 > O then
-										j, kE, UE, C = w[2], 1, w[1], w[3];
-										i = kE - C;
-										kE = nil;
-										p = i * UE;
-										i = nil;
-										i = C * j;
-										vE = p + i;
-										i, p = nil, nil;
-										Z = G(vE);
-										vE = nil;
-										O = nil;
+								if 14861907.5 > Q then
+									if Q < 14589608.0 then
+										c, Z, M, E, P7, u7, q, p = h(-63105), h(-63136), C[10], C[3], 5, C[18], h(-63202), C[4];
+										s7 = I[f[3]];
+										Y7 = {
+												[M] = q,
+												[p] = c,
+												[u7] = P7,
+												[E] = Z,
+											};
+										q, M, c, p, P7, u7, Z, E = nil, nil, nil, nil, nil, nil, nil, nil;
+										a = C[57];
+										a = s7[a];
+										a = u(a, Y, s7, Y7);
+										a, s7, Y7 = nil, nil, nil;
+										Q = 4972562;
+									elseif 14705013.5 > Q then
+										a = I[f[2]];
+										Y7 = u(a, Y);
+										a, Y7 = nil, nil;
+										Q = 344536;
 									else
-										j = s(-60482);
-										UE = o[j];
-										j = nil;
-										j, C = k[33], k[3];
-										j = UE[j];
-										j = q(j, o, UE, C);
-										UE, C = nil, nil;
-										O = j and 8973331 or 15368629;
-										j = nil;
+										Y7 = h(-63194);
+										s7 = I[f[1]];
+										a = u(s7, Y, Y7);
+										s7, a, Y7 = nil, nil, nil;
+										Q = nil;
+										X = G();
 									end;
 								else
-									if 15328183.0 > O then
-										C, UE = 4095906 ~= 12643971, w[1];
-										j = UE == C;
-										C = nil;
-										O = j and 4183836 or 13531908;
-										j = nil;
-									elseif O < 15567605.5 then
-										KE, kE, i, OE = s(-60523), s(-60612), k[71], k[45];
-										UE = c[e[3]];
-										YE, P, p, vE = k[57], 5, s(-60476), k[65];
-										C = {
-												[vE] = p,
-												[i] = kE,
-												[OE] = P,
-												[YE] = KE,
-											};
-										p, vE, kE, i, P, OE, KE, YE = nil, nil, nil, nil, nil, nil, nil, nil;
-										j = k[18];
-										j = UE[j];
-										j = q(j, o, UE, C);
-										j, UE, C = nil, nil, nil;
-										O = 12533795;
+									if Q < 15507116.0 then
+										s7 = I[f[1]];
+										q = I[f[2]];
+										p = C[47];
+										M = q[p];
+										q, p = nil, nil;
+										q = C[34];
+										Y7 = M[q];
+										M, q = nil, nil;
+										P7, q = C[47], C[11];
+										u7 = I[f[2]];
+										c = u7[P7];
+										u7, P7 = nil, nil;
+										u7 = C[60];
+										p = c[u7];
+										c, u7 = nil, nil;
+										M = q .. p;
+										p, q = nil, nil;
+										q = C[5];
+										a = u(s7, Y, Y7, M, q);
+										s7, Y7, M, q = nil, nil, nil, nil;
+										s7 = C[44];
+										Y7 = C[27];
+										s7 = a[s7];
+										s7 = u(s7, Y, a, Y7);
+										Y7 = nil;
+										M, Y7 = C[61], C[44];
+										Y7 = s7[Y7];
+										Y7 = u(Y7, Y, s7, M);
+										s7, M = nil, nil;
+										s7, M = C[52], 4721362 >= 257964;
+										Y7[s7] = M;
+										Y7, s7, M = nil, nil, nil;
+										Y7, s7 = C[27], C[44];
+										s7 = a[s7];
+										s7 = u(s7, Y, a, Y7);
+										Y7 = nil;
+										M, Y7 = C[61], C[44];
+										Y7 = s7[Y7];
+										Y7 = u(Y7, Y, s7, M);
+										s7, M = nil, nil;
+										s7, p = h(-63146), h(-63240);
+										q = Y[p];
+										p = nil;
+										p = C[9];
+										M = q[p];
+										q, p = nil, nil;
+										c, p = 0, 120;
+										q = u(M, Y, p, c);
+										M, p, c = nil, nil, nil;
+										Y7[s7] = q;
+										Y7, s7, q = nil, nil, nil;
+										a = nil;
+										a = nil;
+										X = G();
+										Q = nil;
+									elseif Q < 16307819.0 then
+										Y7 = C[32];
+										a = Y[Y7];
+										Y7 = nil;
+										M, Y7 = C[17], C[62];
+										Y7 = a[Y7];
+										Y7 = u(Y7, Y, a, M);
+										a, M = nil, nil;
+										a = nil;
+										s7 = Y7 == a;
+										a, Y7 = nil, nil;
+										Q = s7 and 6093050 or 16506281;
+										s7 = nil;
 									else
-										j, p = k[51], k[46];
-										UE = c[e[1]];
-										vE = o[p];
-										p = nil;
-										p = k[41];
-										C = vE[p];
-										vE, p = nil, nil;
-										UE[j] = C;
-										UE, j, C = nil, nil, nil;
-										j, p = k[27], k[46];
-										UE = c[e[1]];
-										vE = o[p];
-										p = nil;
-										p = k[41];
-										C = vE[p];
-										vE, p = nil, nil;
-										UE[j] = C;
-										UE, j, C = nil, nil, nil;
-										C, j = 1, k[37];
-										UE = c[e[1]];
-										UE[j] = C;
-										UE, j, C = nil, nil, nil;
-										Z = G();
-										O = nil;
+										a = C[32];
+										s7 = Y[a];
+										a = nil;
+										M, Y7 = C[62], C[17];
+										M = s7[M];
+										a = G(u(M, Y, s7, Y7));
+										M, s7, Y7 = nil, nil, nil;
+										X = G(z(a));
+										a = nil;
+										Q = nil;
 									end;
 								end;
 							end;
 						end;
 					end;
 				end;
-				O = #R;
-				return f(Z);
-			end, function(O, s, ...)
-				if U and O == U then
-					local O = ...;
-					if O == nil or O == 1 then
-						return s;
+				Q = #H;
+				return z(X);
+			end, function(Q)
+				local h, C = 1, Q[1];
+				while C do
+					w[C], h = w[C] - 1, 1 + h;
+					if 0 == w[C] then
+						w[C], I[C] = nil, nil;
 					end;
+					C = Q[h];
 				end;
-				return O(...);
-			end, function(O)
-				return T(O, 1, O[k[22]]);
+			end, function(Q, h, k)
+				local f = B(h);
+				local H = function(H, Y, K, X)
+						return S(Q, {
+							H,
+							Y,
+							K,
+							X,
+							[C[77]] = 4,
+						}, h, f, g and g(1) or k);
+					end;
+				if Y then
+					Y(H, k);
+				end;
+				return H;
+			end, function(Q)
+				w[Q] = w[Q] - 1;
+				if 0 == w[Q] then
+					w[Q], I[Q] = nil, nil;
+				end;
+			end, {}, function(Q, h, k)
+				local f = B(h);
+				local H = function(H)
+						return S(Q, { H, [C[77]] = 1 }, h, f, g and g(1) or k);
+					end;
+				if Y then
+					Y(H, k);
+				end;
+				return H;
+			end, function(Q, h, C)
+				local k = B(h);
+				local f = function(...)
+						return S(Q, G(...), h, k, g and g(1) or C);
+					end;
+				if Y then
+					Y(f, C);
+				end;
+				return f;
 			end, function()
-				V = V + 1;
-				Y[V] = 1;
-				return V;
-			end, function(O, s, w)
-				local e = D(s);
-				local o = function(R, o, F, i, T, b)
-						return P(O, {
-							R,
-							o,
-							F,
-							i,
-							T,
-							b,
-							[k[22]] = 6,
-						}, s, e, U and U(1) or w);
+				y = y + 1;
+				w[y] = 1;
+				return y;
+			end, function(Q)
+				return M(Q, 1, Q[C[77]]);
+			end, function(Q, h, k)
+				local f = B(h);
+				local H = function(H, Y, K, X, s)
+						return S(Q, {
+							H,
+							Y,
+							K,
+							X,
+							s,
+							[C[77]] = 5,
+						}, h, f, g and g(1) or k);
 					end;
-				if R then
-					R(o, w);
+				if Y then
+					Y(H, k);
 				end;
-				return o;
-			end, function(O)
-				local s, k = 1, O[1];
-				while k do
-					Y[k], s = Y[k] - 1, s + 1;
-					if Y[k] == 0 then
-						Y[k], c[k] = nil, nil;
+				return H;
+			end, function(Q, h, k)
+				local f = B(h);
+				local H = function()
+						return S(Q, { [C[77]] = 0 }, h, f, g and g(1) or k);
 					end;
-					k = O[s];
+				if Y then
+					Y(H, k);
 				end;
-			end;
-		return (J(3170967, {}, O))(f(w));
-	end)(getfenv and getfenv() or _ENV, { [k[22]] = select(k[61], ...), ... }, newproxy, setfenv, error, setmetatable, tonumber, unpack or table[s(-60501)], select, getmetatable, getfenv);
+				return H;
+			end, function(Q, h, k)
+				local f = B(h);
+				local H = function(H, Y, K)
+						return S(Q, {
+							H,
+							Y,
+							K,
+							[C[77]] = 3,
+						}, h, f, g and g(1) or k);
+					end;
+				if Y then
+					Y(H, k);
+				end;
+				return H;
+			end, 0;
+		return (N(9969636, {}, X))(z(Q));
+	end)({ [C[77]] = select(C[16], ...), ... }, tonumber, newproxy, error, setfenv, getmetatable, getfenv and getfenv() or _ENV, setmetatable, select, getfenv, unpack or table[h(-63089)]);
 end)(...);
